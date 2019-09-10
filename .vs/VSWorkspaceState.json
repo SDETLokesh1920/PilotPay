@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\PilotPay",
+    "\\src\\test\\java\\com\\PilotPay\\pageObjects",
+    "\\src\\test\\java\\com\\PilotPay\\testCases",
+    "\\src\\test\\java\\com\\PilotPay\\testData",
+    "\\src\\test\\java\\com\\PilotPay\\utilities"
+  ],
+  "SelectedNode": "\\src\\test\\java\\com\\PilotPay\\testCases\\TC_E2EPayCategorieyTest_006.java",
+  "PreviewInSolutionExplorer": false
+}

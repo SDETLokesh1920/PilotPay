@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PilotPay">
+	<listeners>
+		<listener class-name="com.PilotPay.utilities.Reporting" />
+	</listeners>
+
+	<test name="PilotPayApp Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+			<!--<class name="com.PilotPay.testCases.TC_LoginTest_001" ></class>
+			<class name="com.PilotPay.testCases.TC_LoginDDT_002" ></class>
+			<class name="com.PilotPay.testCases.TC_CreatePayCategoryTest_003" ></class>-->
+			<!--<class name="com.PilotPay.testCases.TC_UpdatePayCategoryTest_004" ></class>
+			<class name="com.PilotPay.testCases.TC_DeletePayCategoryTest_005" ></class>-->
+			<class name="com.PilotPay.testCases.TC_E2EPayCategorieyTest_006" ></class>
+			
+		</classes>
+
+	</test>
+
+</suite> 

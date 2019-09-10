@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PilotPay]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.PilotPay.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="PilotPayApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.PilotPay.testCases.TC_E2EPayCategorieyTest_006">
+        <methods>
+          <include name="addNewPayCategory"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.PilotPay.testCases.TC_E2EPayCategorieyTest_006 -->
+    </classes>
+  </test> <!-- PilotPayApp Test(failed) -->
+</suite> <!-- Failed suite [PilotPay] -->

@@ -1,0 +1,2036 @@
+2019-08-19 11:55:00,772 [main] INFO PiloPay - URL is opened
+2019-08-19 11:55:01,578 [main] INFO PiloPay - USERNAME Entered
+2019-08-19 11:55:02,145 [main] INFO PiloPay - PASSWORD Entered
+2019-08-19 11:55:02,360 [main] INFO PiloPay - LoginTest Passed
+2019-08-19 14:21:54,607 [main] INFO PiloPay - URL is opened
+2019-08-19 14:21:55,966 [main] INFO PiloPay - USERNAME Entered
+2019-08-19 14:21:56,216 [main] INFO PiloPay - PASSWORD Entered
+2019-08-19 14:21:56,351 [main] INFO PiloPay - LoginTest Passed
+2019-08-19 14:41:18,653 [main] INFO PiloPay - URL is opened
+2019-08-19 14:41:19,088 [main] INFO PiloPay - USERNAME Entered
+2019-08-19 14:41:19,280 [main] INFO PiloPay - PASSWORD Entered
+2019-08-19 14:41:19,703 [main] INFO PiloPay - LoginTest Passed
+2019-08-19 14:54:15,421 [main] INFO PiloPay - URL is opened
+2019-08-19 14:54:35,412 [main] INFO PiloPay - URL is opened
+2019-08-19 14:59:14,958 [main] INFO PiloPay - URL is opened
+2019-08-19 15:05:09,223 [main] INFO PiloPay - URL is opened
+2019-08-19 15:35:30,898 [main] INFO PiloPay - URL is opened
+2019-08-19 15:38:03,140 [main] INFO PiloPay - URL is opened
+2019-08-19 15:39:39,048 [main] INFO PiloPay - URL is opened
+2019-08-19 15:48:17,168 [main] INFO PiloPay - URL is opened
+2019-08-19 15:50:27,044 [main] INFO PiloPay - URL is opened
+2019-08-19 15:50:27,589 [main] INFO PiloPay - USERNAME Entered
+2019-08-19 15:50:27,991 [main] INFO PiloPay - PASSWORD Entered
+2019-08-19 15:50:28,161 [main] INFO PiloPay - LoginTest Passed
+2019-08-19 16:16:22,045 [main] INFO PiloPay - URL is opened
+2019-08-19 16:16:22,803 [main] INFO PiloPay - USERNAME Entered
+2019-08-19 16:16:23,006 [main] INFO PiloPay - PASSWORD Entered
+2019-08-19 16:16:23,277 [main] INFO PiloPay - LoginTest Passed
+2019-08-19 16:29:23,310 [main] INFO PiloPay - URL is opened
+2019-08-19 16:29:24,006 [main] INFO PiloPay - USERNAME Entered
+2019-08-19 16:29:24,259 [main] INFO PiloPay - PASSWORD Entered
+2019-08-20 09:59:36,053 [main] INFO PiloPay - USERNAME provided
+2019-08-20 09:59:36,324 [main] INFO PiloPay - Password provided
+2019-08-20 10:00:45,354 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:00:50,458 [main] INFO PiloPay - Password provided
+2019-08-20 10:03:07,082 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:03:12,162 [main] INFO PiloPay - Password provided
+2019-08-20 10:12:15,313 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:12:30,533 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:12:45,791 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:13:01,028 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:13:16,327 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:24:55,771 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:25:00,928 [main] INFO PiloPay - Password provided
+2019-08-20 10:52:58,461 [main] INFO PiloPay - USERNAME provided
+2019-08-20 10:53:03,630 [main] INFO PiloPay - Password provided
+2019-08-20 11:25:54,570 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:25:59,760 [main] INFO PiloPay - Password provided
+2019-08-20 11:26:14,928 [main] INFO PiloPay - Login passed
+2019-08-20 11:36:52,210 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:36:57,372 [main] INFO PiloPay - Password provided
+2019-08-20 11:37:13,496 [main] INFO PiloPay - Login passed
+2019-08-20 11:37:17,012 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:37:22,158 [main] INFO PiloPay - Password provided
+2019-08-20 11:37:27,496 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:37:32,587 [main] INFO PiloPay - Password provided
+2019-08-20 11:37:37,861 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:37:43,011 [main] INFO PiloPay - Password provided
+2019-08-20 11:37:48,302 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:37:53,400 [main] INFO PiloPay - Password provided
+2019-08-20 11:40:49,572 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:40:49,766 [main] INFO PiloPay - Password provided
+2019-08-20 11:40:53,117 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:40:53,225 [main] INFO PiloPay - Password provided
+2019-08-20 11:40:56,535 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:40:56,648 [main] INFO PiloPay - Password provided
+2019-08-20 11:40:59,940 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:41:00,022 [main] INFO PiloPay - Password provided
+2019-08-20 11:41:03,336 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:41:03,428 [main] INFO PiloPay - Password provided
+2019-08-20 11:43:57,595 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:43:59,732 [main] INFO PiloPay - Password provided
+2019-08-20 11:44:03,139 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:44:05,257 [main] INFO PiloPay - Password provided
+2019-08-20 11:45:30,213 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:45:32,344 [main] INFO PiloPay - Password provided
+2019-08-20 11:45:35,639 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:45:37,726 [main] INFO PiloPay - Password provided
+2019-08-20 11:45:41,045 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:45:43,180 [main] INFO PiloPay - Password provided
+2019-08-20 11:45:46,397 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:46:49,671 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:46:51,828 [main] INFO PiloPay - Password provided
+2019-08-20 11:46:56,337 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:46:58,460 [main] INFO PiloPay - Password provided
+2019-08-20 11:47:03,007 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:47:05,144 [main] INFO PiloPay - Password provided
+2019-08-20 11:47:09,918 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:47:12,073 [main] INFO PiloPay - Password provided
+2019-08-20 11:47:16,635 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:47:18,736 [main] INFO PiloPay - Password provided
+2019-08-20 11:52:01,124 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:52:03,246 [main] INFO PiloPay - Password provided
+2019-08-20 11:52:17,445 [main] INFO PiloPay - Login passed
+2019-08-20 11:53:36,020 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:53:38,179 [main] INFO PiloPay - Password provided
+2019-08-20 11:53:43,030 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:53:45,196 [main] INFO PiloPay - Password provided
+2019-08-20 11:54:13,845 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:54:15,982 [main] INFO PiloPay - Password provided
+2019-08-20 11:54:30,197 [main] INFO PiloPay - Login passed
+2019-08-20 11:54:36,734 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:54:38,891 [main] INFO PiloPay - Password provided
+2019-08-20 11:54:43,465 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:54:45,642 [main] INFO PiloPay - Password provided
+2019-08-20 11:54:50,491 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:54:52,644 [main] INFO PiloPay - Password provided
+2019-08-20 11:54:57,190 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:54:59,316 [main] INFO PiloPay - Password provided
+2019-08-20 11:55:57,376 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:55:59,503 [main] INFO PiloPay - Password provided
+2019-08-20 11:56:22,860 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:56:25,003 [main] INFO PiloPay - Password provided
+2019-08-20 11:56:41,313 [main] INFO PiloPay - Login passed
+2019-08-20 11:56:47,865 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:56:49,983 [main] INFO PiloPay - Password provided
+2019-08-20 11:56:54,648 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:56:56,750 [main] INFO PiloPay - Password provided
+2019-08-20 11:57:01,727 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:57:03,844 [main] INFO PiloPay - Password provided
+2019-08-20 11:57:08,414 [main] INFO PiloPay - USERNAME provided
+2019-08-20 11:57:10,541 [main] INFO PiloPay - Password provided
+2019-08-20 12:01:01,409 [main] INFO PiloPay - USERNAME provided
+2019-08-20 12:01:03,547 [main] INFO PiloPay - Password provided
+2019-08-20 12:01:19,584 [main] INFO PiloPay - Login passed
+2019-08-20 12:01:26,167 [main] INFO PiloPay - USERNAME provided
+2019-08-20 12:01:28,286 [main] INFO PiloPay - Password provided
+2019-08-20 12:01:33,123 [main] INFO PiloPay - USERNAME provided
+2019-08-20 12:01:35,275 [main] INFO PiloPay - Password provided
+2019-08-20 12:01:39,758 [main] INFO PiloPay - USERNAME provided
+2019-08-20 12:01:41,909 [main] INFO PiloPay - Password provided
+2019-08-20 12:01:55,177 [main] INFO PiloPay - Login passed
+2019-08-20 12:02:01,713 [main] INFO PiloPay - USERNAME provided
+2019-08-20 12:02:03,816 [main] INFO PiloPay - Password provided
+2019-08-21 09:57:59,112 [main] INFO PiloPay - URL is opened
+2019-08-21 09:57:59,660 [main] INFO PiloPay - USERNAME Entered
+2019-08-21 09:57:59,782 [main] INFO PiloPay - PASSWORD Entered
+2019-08-21 09:57:59,926 [main] INFO PiloPay - LoginTest Passed
+2019-08-21 09:58:15,589 [main] INFO PiloPay - USERNAME provided
+2019-08-21 09:58:17,787 [main] INFO PiloPay - Password provided
+2019-08-21 09:58:33,602 [main] INFO PiloPay - Login passed
+2019-08-21 09:58:37,270 [main] INFO PiloPay - USERNAME provided
+2019-08-21 09:58:39,400 [main] INFO PiloPay - Password provided
+2019-08-21 09:58:43,955 [main] INFO PiloPay - USERNAME provided
+2019-08-21 09:58:46,106 [main] INFO PiloPay - Password provided
+2019-08-21 09:58:51,668 [main] INFO PiloPay - USERNAME provided
+2019-08-21 09:58:53,840 [main] INFO PiloPay - Password provided
+2019-08-21 09:59:07,849 [main] INFO PiloPay - Login passed
+2019-08-21 09:59:11,404 [main] INFO PiloPay - USERNAME provided
+2019-08-21 09:59:13,536 [main] INFO PiloPay - Password provided
+2019-08-21 10:00:59,369 [main] INFO PiloPay - URL is opened
+2019-08-21 10:00:59,736 [main] INFO PiloPay - USERNAME Entered
+2019-08-21 10:00:59,967 [main] INFO PiloPay - PASSWORD Entered
+2019-08-21 10:01:00,136 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 11:20:59,785 [main] INFO PiloPay - URL is opened
+2019-08-22 11:21:00,088 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 11:21:00,229 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 11:21:00,368 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 11:21:13,672 [main] INFO PiloPay - USERNAME provided
+2019-08-22 11:21:15,803 [main] INFO PiloPay - Password provided
+2019-08-22 11:21:29,705 [main] INFO PiloPay - Login passed
+2019-08-22 11:21:33,320 [main] INFO PiloPay - USERNAME provided
+2019-08-22 11:21:35,431 [main] INFO PiloPay - Password provided
+2019-08-22 11:21:39,482 [main] INFO PiloPay - USERNAME provided
+2019-08-22 11:21:41,620 [main] INFO PiloPay - Password provided
+2019-08-22 11:21:45,220 [main] INFO PiloPay - USERNAME provided
+2019-08-22 11:21:47,389 [main] INFO PiloPay - Password provided
+2019-08-22 11:22:01,088 [main] INFO PiloPay - Login passed
+2019-08-22 11:22:04,620 [main] INFO PiloPay - USERNAME provided
+2019-08-22 11:22:06,743 [main] INFO PiloPay - Password provided
+2019-08-22 11:33:22,608 [main] INFO PiloPay - URL is opened
+2019-08-22 11:33:22,839 [main] INFO PiloPay - Username provided
+2019-08-22 11:33:22,937 [main] INFO PiloPay - Password provided
+2019-08-22 11:38:48,733 [main] INFO PiloPay - URL is opened
+2019-08-22 11:38:49,071 [main] INFO PiloPay - Username provided
+2019-08-22 11:38:49,216 [main] INFO PiloPay - Password provided
+2019-08-22 11:39:00,016 [main] INFO PiloPay - unit provided
+2019-08-22 11:41:07,942 [main] INFO PiloPay - URL is opened
+2019-08-22 11:41:08,214 [main] INFO PiloPay - Username provided
+2019-08-22 11:41:08,357 [main] INFO PiloPay - Password provided
+2019-08-22 11:41:19,702 [main] INFO PiloPay - unit provided
+2019-08-22 11:42:33,271 [main] INFO PiloPay - URL is opened
+2019-08-22 11:42:33,574 [main] INFO PiloPay - Username provided
+2019-08-22 11:42:33,735 [main] INFO PiloPay - Password provided
+2019-08-22 11:42:44,132 [main] INFO PiloPay - unit provided
+2019-08-22 11:44:47,317 [main] INFO PiloPay - URL is opened
+2019-08-22 11:44:47,586 [main] INFO PiloPay - Username provided
+2019-08-22 11:44:47,765 [main] INFO PiloPay - Password provided
+2019-08-22 11:44:58,252 [main] INFO PiloPay - unit provided
+2019-08-22 11:45:04,547 [main] INFO PiloPay - workdaypaycode selected
+2019-08-22 11:45:08,166 [main] INFO PiloPay - icon selected
+2019-08-22 11:45:08,509 [main] INFO PiloPay - color selected
+2019-08-22 11:45:12,158 [main] INFO PiloPay - note added
+2019-08-22 11:45:18,298 [main] INFO PiloPay - Validation Started...
+2019-08-22 11:45:18,418 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 11:47:15,044 [main] INFO PiloPay - URL is opened
+2019-08-22 11:47:15,390 [main] INFO PiloPay - Username provided
+2019-08-22 11:47:18,525 [main] INFO PiloPay - Password provided
+2019-08-22 11:47:28,400 [main] INFO PiloPay - unit provided
+2019-08-22 11:47:31,731 [main] INFO PiloPay - workdaypaycode selected
+2019-08-22 11:47:33,282 [main] INFO PiloPay - icon selected
+2019-08-22 11:47:33,628 [main] INFO PiloPay - color selected
+2019-08-22 11:47:35,251 [main] INFO PiloPay - note added
+2019-08-22 11:47:39,347 [main] INFO PiloPay - Validation Started...
+2019-08-22 11:54:35,039 [main] INFO PiloPay - URL is opened
+2019-08-22 11:54:35,329 [main] INFO PiloPay - Username provided
+2019-08-22 11:54:38,489 [main] INFO PiloPay - Password provided
+2019-08-22 11:54:45,854 [main] INFO PiloPay - unit provided
+2019-08-22 11:54:49,133 [main] INFO PiloPay - workdaypaycode selected
+2019-08-22 11:54:50,678 [main] INFO PiloPay - icon selected
+2019-08-22 11:54:50,996 [main] INFO PiloPay - color selected
+2019-08-22 11:54:52,622 [main] INFO PiloPay - note added
+2019-08-22 11:54:56,696 [main] INFO PiloPay - Validation Started...
+2019-08-22 12:08:40,905 [main] INFO PiloPay - URL is opened
+2019-08-22 12:08:41,215 [main] INFO PiloPay - Username provided
+2019-08-22 12:08:44,330 [main] INFO PiloPay - Password provided
+2019-08-22 12:08:51,660 [main] INFO PiloPay - unit provided
+2019-08-22 12:08:55,009 [main] INFO PiloPay - workdaypaycode selected
+2019-08-22 12:08:56,577 [main] INFO PiloPay - icon selected
+2019-08-22 12:08:56,895 [main] INFO PiloPay - color selected
+2019-08-22 12:08:58,552 [main] INFO PiloPay - note added
+2019-08-22 12:09:02,649 [main] INFO PiloPay - Validation Started...
+2019-08-22 12:09:02,671 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 14:04:50,908 [main] INFO PiloPay - URL is opened
+2019-08-22 14:04:51,339 [main] INFO PiloPay - Username provided
+2019-08-22 14:04:51,654 [main] INFO PiloPay - Password provided
+2019-08-22 14:05:01,494 [main] INFO PiloPay - Unit provided
+2019-08-22 14:05:04,851 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 14:05:06,485 [main] INFO PiloPay - Icon selected
+2019-08-22 14:05:06,921 [main] INFO PiloPay - Color selected
+2019-08-22 14:05:08,606 [main] INFO PiloPay - Note added
+2019-08-22 14:05:12,701 [main] INFO PiloPay - Validation Started...
+2019-08-22 14:05:13,400 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 14:18:16,097 [main] INFO PiloPay - URL is opened
+2019-08-22 14:18:16,500 [main] INFO PiloPay - Username provided
+2019-08-22 14:18:16,734 [main] INFO PiloPay - Password provided
+2019-08-22 14:18:26,945 [main] INFO PiloPay - Unit provided
+2019-08-22 14:18:30,299 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 14:18:32,129 [main] INFO PiloPay - Icon selected
+2019-08-22 14:18:32,652 [main] INFO PiloPay - Color selected
+2019-08-22 14:18:34,313 [main] INFO PiloPay - Note added
+2019-08-22 14:18:38,429 [main] INFO PiloPay - Validation Started...
+2019-08-22 14:18:39,113 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 14:56:06,944 [main] INFO PiloPay - URL is opened
+2019-08-22 14:56:07,455 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 14:56:07,748 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 14:56:08,933 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 14:56:27,691 [main] INFO PiloPay - URL is opened
+2019-08-22 14:56:27,991 [main] INFO PiloPay - Username provided
+2019-08-22 14:56:28,149 [main] INFO PiloPay - Password provided
+2019-08-22 14:56:37,258 [main] INFO PiloPay - Unit provided
+2019-08-22 14:56:40,562 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 14:56:42,181 [main] INFO PiloPay - Icon selected
+2019-08-22 14:56:42,568 [main] INFO PiloPay - Color selected
+2019-08-22 14:56:44,231 [main] INFO PiloPay - Note added
+2019-08-22 14:56:48,332 [main] INFO PiloPay - Validation Started...
+2019-08-22 14:56:48,766 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 15:26:55,947 [main] INFO PiloPay - URL is opened
+2019-08-22 15:26:56,293 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 15:26:56,454 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 15:26:56,662 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 15:27:11,287 [main] INFO PiloPay - URL is opened
+2019-08-22 15:27:11,670 [main] INFO PiloPay - Username provided
+2019-08-22 15:27:11,859 [main] INFO PiloPay - Password provided
+2019-08-22 15:27:22,908 [main] INFO PiloPay - Unit provided
+2019-08-22 15:27:26,319 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 15:27:29,290 [main] INFO PiloPay - Icon selected
+2019-08-22 15:27:29,863 [main] INFO PiloPay - Color selected
+2019-08-22 15:27:31,657 [main] INFO PiloPay - Note added
+2019-08-22 15:27:35,731 [main] INFO PiloPay - Validation Started...
+2019-08-22 15:27:36,216 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 15:29:24,057 [main] INFO PiloPay - URL is opened
+2019-08-22 15:29:24,345 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 15:29:24,476 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 15:29:24,569 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 15:29:35,048 [main] INFO PiloPay - URL is opened
+2019-08-22 15:29:35,224 [main] INFO PiloPay - Username provided
+2019-08-22 15:29:35,327 [main] INFO PiloPay - Password provided
+2019-08-22 15:34:35,525 [main] INFO PiloPay - URL is opened
+2019-08-22 15:34:35,796 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 15:34:35,923 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 15:34:36,017 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 15:34:46,136 [main] INFO PiloPay - URL is opened
+2019-08-22 15:34:46,285 [main] INFO PiloPay - Username provided
+2019-08-22 15:34:46,390 [main] INFO PiloPay - Password provided
+2019-08-22 15:34:53,682 [main] INFO PiloPay - Unit provided
+2019-08-22 15:34:57,032 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 15:34:58,615 [main] INFO PiloPay - Icon selected
+2019-08-22 15:34:58,906 [main] INFO PiloPay - Color selected
+2019-08-22 15:35:00,716 [main] INFO PiloPay - Note added
+2019-08-22 15:35:04,832 [main] INFO PiloPay - Validation Started...
+2019-08-22 15:35:05,218 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 15:57:05,687 [main] INFO PiloPay - URL is opened
+2019-08-22 15:57:05,958 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 15:57:06,067 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 15:57:06,167 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 15:57:16,856 [main] INFO PiloPay - URL is opened
+2019-08-22 15:57:17,117 [main] INFO PiloPay - Username provided
+2019-08-22 15:57:17,329 [main] INFO PiloPay - Password provided
+2019-08-22 15:57:24,818 [main] INFO PiloPay - Unit provided
+2019-08-22 15:57:28,127 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 15:57:29,659 [main] INFO PiloPay - Icon selected
+2019-08-22 15:57:29,955 [main] INFO PiloPay - Color selected
+2019-08-22 15:57:31,527 [main] INFO PiloPay - Note added
+2019-08-22 15:57:35,631 [main] INFO PiloPay - Validation Started...
+2019-08-22 15:57:36,093 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-22 15:58:19,583 [main] INFO PiloPay - URL is opened
+2019-08-22 15:58:19,889 [main] INFO PiloPay - USERNAME Entered
+2019-08-22 15:58:20,023 [main] INFO PiloPay - PASSWORD Entered
+2019-08-22 15:58:20,167 [main] INFO PiloPay - LoginTest Passed
+2019-08-22 15:58:31,835 [main] INFO PiloPay - URL is opened
+2019-08-22 15:58:32,148 [main] INFO PiloPay - Username provided
+2019-08-22 15:58:32,320 [main] INFO PiloPay - Password provided
+2019-08-22 15:58:39,840 [main] INFO PiloPay - Unit provided
+2019-08-22 15:58:43,182 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-22 15:58:44,765 [main] INFO PiloPay - Icon selected
+2019-08-22 15:58:45,098 [main] INFO PiloPay - Color selected
+2019-08-22 15:58:46,718 [main] INFO PiloPay - Note added
+2019-08-22 15:58:50,813 [main] INFO PiloPay - Validation Started...
+2019-08-22 15:58:51,421 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 09:11:51,827 [main] INFO PiloPay - URL is opened
+2019-08-26 09:11:52,084 [main] INFO PiloPay - USERNAME Entered
+2019-08-26 09:11:52,203 [main] INFO PiloPay - PASSWORD Entered
+2019-08-26 09:11:52,325 [main] INFO PiloPay - LoginTest Passed
+2019-08-26 09:12:02,920 [main] INFO PiloPay - URL is opened
+2019-08-26 09:12:03,130 [main] INFO PiloPay - Username provided
+2019-08-26 09:12:03,243 [main] INFO PiloPay - Password provided
+2019-08-26 09:12:11,409 [main] INFO PiloPay - Unit provided
+2019-08-26 09:12:14,679 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 09:12:16,276 [main] INFO PiloPay - Icon selected
+2019-08-26 09:12:16,649 [main] INFO PiloPay - Color selected
+2019-08-26 09:12:18,377 [main] INFO PiloPay - Note added
+2019-08-26 09:12:22,475 [main] INFO PiloPay - Validation Started...
+2019-08-26 09:12:22,958 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 09:30:42,701 [main] INFO PiloPay - URL is opened
+2019-08-26 09:30:43,066 [main] INFO PiloPay - USERNAME Entered
+2019-08-26 09:30:43,183 [main] INFO PiloPay - PASSWORD Entered
+2019-08-26 09:30:43,292 [main] INFO PiloPay - LoginTest Passed
+2019-08-26 09:31:07,040 [main] INFO PiloPay - URL is opened
+2019-08-26 09:31:07,364 [main] INFO PiloPay - Username provided
+2019-08-26 09:31:07,520 [main] INFO PiloPay - Password provided
+2019-08-26 09:31:14,287 [main] INFO PiloPay - Unit provided
+2019-08-26 09:31:17,647 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 09:31:19,235 [main] INFO PiloPay - Icon selected
+2019-08-26 09:31:19,600 [main] INFO PiloPay - Color selected
+2019-08-26 09:31:21,249 [main] INFO PiloPay - Note added
+2019-08-26 09:31:25,350 [main] INFO PiloPay - Validation Started...
+2019-08-26 09:31:25,962 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 10:56:35,200 [main] INFO PiloPay - URL is opened
+2019-08-26 10:56:35,474 [main] INFO PiloPay - USERNAME Entered
+2019-08-26 10:56:35,596 [main] INFO PiloPay - PASSWORD Entered
+2019-08-26 10:56:35,704 [main] INFO PiloPay - LoginTest Passed
+2019-08-26 10:56:53,768 [main] INFO PiloPay - URL is opened
+2019-08-26 10:56:54,008 [main] INFO PiloPay - Username provided
+2019-08-26 10:56:54,140 [main] INFO PiloPay - Password provided
+2019-08-26 10:57:01,556 [main] INFO PiloPay - Unit provided
+2019-08-26 10:57:04,949 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 10:57:06,544 [main] INFO PiloPay - Icon selected
+2019-08-26 10:57:06,877 [main] INFO PiloPay - Color selected
+2019-08-26 10:57:08,536 [main] INFO PiloPay - Note added
+2019-08-26 10:57:12,621 [main] INFO PiloPay - Started editing PC....
+2019-08-26 11:20:40,088 [main] INFO PiloPay - URL is opened
+2019-08-26 11:20:40,406 [main] INFO PiloPay - Username provided
+2019-08-26 11:20:40,540 [main] INFO PiloPay - Password provided
+2019-08-26 11:20:52,496 [main] INFO PiloPay - Unit provided
+2019-08-26 11:20:55,829 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 11:20:57,591 [main] INFO PiloPay - Icon selected
+2019-08-26 11:20:58,069 [main] INFO PiloPay - Color selected
+2019-08-26 11:20:59,781 [main] INFO PiloPay - Note added
+2019-08-26 11:21:03,862 [main] INFO PiloPay - Started editing PC....
+2019-08-26 11:22:47,851 [main] INFO PiloPay - URL is opened
+2019-08-26 11:22:48,114 [main] INFO PiloPay - Username provided
+2019-08-26 11:22:48,248 [main] INFO PiloPay - Password provided
+2019-08-26 11:22:55,591 [main] INFO PiloPay - Unit provided
+2019-08-26 11:22:58,962 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 11:23:00,540 [main] INFO PiloPay - Icon selected
+2019-08-26 11:23:00,878 [main] INFO PiloPay - Color selected
+2019-08-26 11:23:02,555 [main] INFO PiloPay - Note added
+2019-08-26 11:23:06,671 [main] INFO PiloPay - Started editing PC....
+2019-08-26 11:26:57,395 [main] INFO PiloPay - URL is opened
+2019-08-26 11:26:57,713 [main] INFO PiloPay - Username provided
+2019-08-26 11:26:57,841 [main] INFO PiloPay - Password provided
+2019-08-26 11:27:14,114 [main] INFO PiloPay - Unit provided
+2019-08-26 11:27:17,453 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 11:27:18,978 [main] INFO PiloPay - Icon selected
+2019-08-26 11:27:19,406 [main] INFO PiloPay - Color selected
+2019-08-26 11:27:21,016 [main] INFO PiloPay - Note added
+2019-08-26 11:27:25,131 [main] INFO PiloPay - Started editing PC....
+2019-08-26 11:27:25,725 [main] INFO PiloPay - UpdatePayCategory Failed
+2019-08-26 11:27:25,726 [main] INFO PiloPay - Validation Started...
+2019-08-26 11:27:26,235 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 11:28:22,121 [main] INFO PiloPay - URL is opened
+2019-08-26 11:28:22,498 [main] INFO PiloPay - Username provided
+2019-08-26 11:28:22,644 [main] INFO PiloPay - Password provided
+2019-08-26 11:28:33,827 [main] INFO PiloPay - Unit provided
+2019-08-26 11:28:37,137 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 11:28:38,697 [main] INFO PiloPay - Icon selected
+2019-08-26 11:28:39,088 [main] INFO PiloPay - Color selected
+2019-08-26 11:28:40,730 [main] INFO PiloPay - Note added
+2019-08-26 11:28:44,847 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:06:40,651 [main] INFO PiloPay - URL is opened
+2019-08-26 12:06:41,043 [main] INFO PiloPay - Username provided
+2019-08-26 12:06:41,230 [main] INFO PiloPay - Password provided
+2019-08-26 12:06:53,563 [main] INFO PiloPay - Unit provided
+2019-08-26 12:06:56,960 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 12:06:58,725 [main] INFO PiloPay - Icon selected
+2019-08-26 12:06:59,435 [main] INFO PiloPay - Color selected
+2019-08-26 12:07:01,213 [main] INFO PiloPay - Note added
+2019-08-26 12:07:05,334 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:15:20,889 [main] INFO PiloPay - URL is opened
+2019-08-26 12:15:21,298 [main] INFO PiloPay - Username provided
+2019-08-26 12:15:21,447 [main] INFO PiloPay - Password provided
+2019-08-26 12:15:32,181 [main] INFO PiloPay - Unit provided
+2019-08-26 12:15:35,449 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 12:15:37,004 [main] INFO PiloPay - Icon selected
+2019-08-26 12:15:37,354 [main] INFO PiloPay - Color selected
+2019-08-26 12:15:38,992 [main] INFO PiloPay - Note added
+2019-08-26 12:15:43,107 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:48:02,055 [main] INFO PiloPay - URL is opened
+2019-08-26 12:48:02,368 [main] INFO PiloPay - Username provided
+2019-08-26 12:48:02,528 [main] INFO PiloPay - Password provided
+2019-08-26 12:48:14,259 [main] INFO PiloPay - Unit provided
+2019-08-26 12:48:17,585 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 12:48:19,126 [main] INFO PiloPay - Icon selected
+2019-08-26 12:48:19,497 [main] INFO PiloPay - Color selected
+2019-08-26 12:48:21,139 [main] INFO PiloPay - Note added
+2019-08-26 12:48:25,245 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:48:25,867 [main] INFO PiloPay - Updated PCName....
+2019-08-26 12:48:26,030 [main] INFO PiloPay - Updated SC....
+2019-08-26 12:49:58,031 [main] INFO PiloPay - URL is opened
+2019-08-26 12:49:58,345 [main] INFO PiloPay - Username provided
+2019-08-26 12:49:58,490 [main] INFO PiloPay - Password provided
+2019-08-26 12:50:09,656 [main] INFO PiloPay - Unit provided
+2019-08-26 12:50:12,996 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 12:50:14,900 [main] INFO PiloPay - Icon selected
+2019-08-26 12:50:15,311 [main] INFO PiloPay - Color selected
+2019-08-26 12:50:17,004 [main] INFO PiloPay - Note added
+2019-08-26 12:50:21,093 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:50:21,706 [main] INFO PiloPay - Updated PCName....
+2019-08-26 12:50:21,829 [main] INFO PiloPay - Updated SC....
+2019-08-26 12:51:43,337 [main] INFO PiloPay - URL is opened
+2019-08-26 12:51:43,697 [main] INFO PiloPay - Username provided
+2019-08-26 12:51:43,832 [main] INFO PiloPay - Password provided
+2019-08-26 12:51:53,868 [main] INFO PiloPay - Unit provided
+2019-08-26 12:51:57,213 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 12:51:58,814 [main] INFO PiloPay - Icon selected
+2019-08-26 12:51:59,175 [main] INFO PiloPay - Color selected
+2019-08-26 12:52:00,841 [main] INFO PiloPay - Note added
+2019-08-26 12:52:04,956 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:52:05,579 [main] INFO PiloPay - Updated PCName....
+2019-08-26 12:52:05,712 [main] INFO PiloPay - Updated SC....
+2019-08-26 12:52:05,908 [main] INFO PiloPay - Updated unit....
+2019-08-26 12:52:06,147 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 12:52:06,283 [main] INFO PiloPay - Updated factor....
+2019-08-26 12:52:06,550 [main] INFO PiloPay - Updated color....
+2019-08-26 12:52:07,912 [main] INFO PiloPay - Added noteName....
+2019-08-26 12:56:37,815 [main] INFO PiloPay - URL is opened
+2019-08-26 12:56:38,068 [main] INFO PiloPay - Username provided
+2019-08-26 12:56:38,221 [main] INFO PiloPay - Password provided
+2019-08-26 12:56:48,836 [main] INFO PiloPay - Unit provided
+2019-08-26 12:56:52,209 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 12:56:53,774 [main] INFO PiloPay - Icon selected
+2019-08-26 12:56:54,129 [main] INFO PiloPay - Color selected
+2019-08-26 12:56:55,795 [main] INFO PiloPay - Note added
+2019-08-26 12:57:00,053 [main] INFO PiloPay - Started editing PC....
+2019-08-26 12:57:00,666 [main] INFO PiloPay - Updated PCName....
+2019-08-26 12:57:00,807 [main] INFO PiloPay - Updated SC....
+2019-08-26 12:57:01,061 [main] INFO PiloPay - Updated unit....
+2019-08-26 12:57:01,327 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 12:57:01,488 [main] INFO PiloPay - Updated factor....
+2019-08-26 12:57:01,788 [main] INFO PiloPay - Updated color....
+2019-08-26 12:57:05,928 [main] INFO PiloPay - Validation Started...
+2019-08-26 12:57:06,538 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 14:19:56,525 [main] INFO PiloPay - URL is opened
+2019-08-26 14:19:56,986 [main] INFO PiloPay - Username provided
+2019-08-26 14:19:57,190 [main] INFO PiloPay - Password provided
+2019-08-26 14:20:06,088 [main] INFO PiloPay - Unit provided
+2019-08-26 14:20:09,436 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 14:20:11,076 [main] INFO PiloPay - Icon selected
+2019-08-26 14:20:11,572 [main] INFO PiloPay - Color selected
+2019-08-26 14:20:13,302 [main] INFO PiloPay - Note added
+2019-08-26 14:20:17,391 [main] INFO PiloPay - Started editing PC....
+2019-08-26 14:34:40,777 [main] INFO PiloPay - URL is opened
+2019-08-26 14:34:41,090 [main] INFO PiloPay - Username provided
+2019-08-26 14:34:41,208 [main] INFO PiloPay - Password provided
+2019-08-26 14:34:50,361 [main] INFO PiloPay - Unit provided
+2019-08-26 14:34:53,613 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 14:34:55,179 [main] INFO PiloPay - Icon selected
+2019-08-26 14:34:55,509 [main] INFO PiloPay - Color selected
+2019-08-26 14:34:57,143 [main] INFO PiloPay - Note added
+2019-08-26 14:46:12,929 [main] INFO PiloPay - URL is opened
+2019-08-26 14:46:13,224 [main] INFO PiloPay - Username provided
+2019-08-26 14:46:13,334 [main] INFO PiloPay - Password provided
+2019-08-26 14:46:23,868 [main] INFO PiloPay - Unit provided
+2019-08-26 14:46:27,175 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 14:46:28,808 [main] INFO PiloPay - Icon selected
+2019-08-26 14:46:29,135 [main] INFO PiloPay - Color selected
+2019-08-26 14:46:30,769 [main] INFO PiloPay - Note added
+2019-08-26 14:49:47,227 [main] INFO PiloPay - URL is opened
+2019-08-26 14:49:47,490 [main] INFO PiloPay - Username provided
+2019-08-26 14:49:47,627 [main] INFO PiloPay - Password provided
+2019-08-26 14:49:58,980 [main] INFO PiloPay - Unit provided
+2019-08-26 14:50:02,362 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 14:50:03,890 [main] INFO PiloPay - Icon selected
+2019-08-26 14:50:04,223 [main] INFO PiloPay - Color selected
+2019-08-26 14:50:05,940 [main] INFO PiloPay - Note added
+2019-08-26 14:50:10,011 [main] INFO PiloPay - Validation Started...
+2019-08-26 14:50:10,675 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 14:51:43,618 [main] INFO PiloPay - URL is opened
+2019-08-26 14:51:43,903 [main] INFO PiloPay - Username provided
+2019-08-26 14:51:44,014 [main] INFO PiloPay - Password provided
+2019-08-26 14:51:51,800 [main] INFO PiloPay - Unit provided
+2019-08-26 14:51:55,158 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 14:51:56,754 [main] INFO PiloPay - Icon selected
+2019-08-26 14:51:57,091 [main] INFO PiloPay - Color selected
+2019-08-26 14:51:58,726 [main] INFO PiloPay - Note added
+2019-08-26 14:55:11,291 [main] INFO PiloPay - URL is opened
+2019-08-26 14:55:11,633 [main] INFO PiloPay - Username provided
+2019-08-26 14:55:11,767 [main] INFO PiloPay - Password provided
+2019-08-26 14:55:19,723 [main] INFO PiloPay - Unit provided
+2019-08-26 14:55:23,045 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 14:55:24,568 [main] INFO PiloPay - Icon selected
+2019-08-26 14:55:24,896 [main] INFO PiloPay - Color selected
+2019-08-26 14:55:26,561 [main] INFO PiloPay - Note added
+2019-08-26 14:55:30,928 [main] INFO PiloPay - Editing PC
+2019-08-26 15:04:25,695 [main] INFO PiloPay - URL is opened
+2019-08-26 15:04:26,003 [main] INFO PiloPay - Username provided
+2019-08-26 15:04:26,134 [main] INFO PiloPay - Password provided
+2019-08-26 15:04:37,636 [main] INFO PiloPay - Unit provided
+2019-08-26 15:04:40,938 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:04:42,477 [main] INFO PiloPay - Icon selected
+2019-08-26 15:04:42,825 [main] INFO PiloPay - Color selected
+2019-08-26 15:04:44,460 [main] INFO PiloPay - Note added
+2019-08-26 15:04:48,953 [main] INFO PiloPay - Editing PC
+2019-08-26 15:10:53,998 [main] INFO PiloPay - URL is opened
+2019-08-26 15:10:54,288 [main] INFO PiloPay - Username provided
+2019-08-26 15:10:54,423 [main] INFO PiloPay - Password provided
+2019-08-26 15:11:03,475 [main] INFO PiloPay - Unit provided
+2019-08-26 15:11:06,838 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:11:08,413 [main] INFO PiloPay - Icon selected
+2019-08-26 15:11:08,760 [main] INFO PiloPay - Color selected
+2019-08-26 15:11:10,385 [main] INFO PiloPay - Note added
+2019-08-26 15:11:14,767 [main] INFO PiloPay - Editing PC
+2019-08-26 15:11:17,927 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:11:18,013 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:15:17,133 [main] INFO PiloPay - URL is opened
+2019-08-26 15:15:17,375 [main] INFO PiloPay - Username provided
+2019-08-26 15:15:17,483 [main] INFO PiloPay - Password provided
+2019-08-26 15:15:30,612 [main] INFO PiloPay - Unit provided
+2019-08-26 15:15:34,107 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:15:35,680 [main] INFO PiloPay - Icon selected
+2019-08-26 15:15:36,008 [main] INFO PiloPay - Color selected
+2019-08-26 15:15:37,692 [main] INFO PiloPay - Note added
+2019-08-26 15:15:42,010 [main] INFO PiloPay - Editing PC
+2019-08-26 15:15:45,189 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:15:45,299 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:20:04,327 [main] INFO PiloPay - URL is opened
+2019-08-26 15:20:04,603 [main] INFO PiloPay - Username provided
+2019-08-26 15:20:04,717 [main] INFO PiloPay - Password provided
+2019-08-26 15:20:14,127 [main] INFO PiloPay - Unit provided
+2019-08-26 15:20:17,495 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:20:19,015 [main] INFO PiloPay - Icon selected
+2019-08-26 15:20:19,336 [main] INFO PiloPay - Color selected
+2019-08-26 15:20:20,955 [main] INFO PiloPay - Note added
+2019-08-26 15:20:25,432 [main] INFO PiloPay - Editing PC
+2019-08-26 15:20:28,575 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:20:28,676 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:28:03,861 [main] INFO PiloPay - URL is opened
+2019-08-26 15:28:04,174 [main] INFO PiloPay - Username provided
+2019-08-26 15:28:04,311 [main] INFO PiloPay - Password provided
+2019-08-26 15:28:13,742 [main] INFO PiloPay - Unit provided
+2019-08-26 15:28:17,077 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:28:18,714 [main] INFO PiloPay - Icon selected
+2019-08-26 15:28:19,019 [main] INFO PiloPay - Color selected
+2019-08-26 15:28:20,662 [main] INFO PiloPay - Note added
+2019-08-26 15:28:25,078 [main] INFO PiloPay - Editing PC
+2019-08-26 15:28:28,221 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:28:28,322 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:28:35,587 [main] INFO PiloPay - Updated unit....
+2019-08-26 15:34:56,122 [main] INFO PiloPay - URL is opened
+2019-08-26 15:34:56,443 [main] INFO PiloPay - Username provided
+2019-08-26 15:34:56,580 [main] INFO PiloPay - Password provided
+2019-08-26 15:35:08,003 [main] INFO PiloPay - Unit provided
+2019-08-26 15:35:11,258 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:35:12,798 [main] INFO PiloPay - Icon selected
+2019-08-26 15:35:13,140 [main] INFO PiloPay - Color selected
+2019-08-26 15:35:14,783 [main] INFO PiloPay - Note added
+2019-08-26 15:35:19,198 [main] INFO PiloPay - Editing PC
+2019-08-26 15:35:22,378 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:35:22,506 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:35:29,792 [main] INFO PiloPay - Updated unit....
+2019-08-26 15:37:20,630 [main] INFO PiloPay - URL is opened
+2019-08-26 15:37:21,007 [main] INFO PiloPay - Username provided
+2019-08-26 15:37:21,163 [main] INFO PiloPay - Password provided
+2019-08-26 15:37:33,492 [main] INFO PiloPay - Unit provided
+2019-08-26 15:37:36,831 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:37:38,394 [main] INFO PiloPay - Icon selected
+2019-08-26 15:37:38,722 [main] INFO PiloPay - Color selected
+2019-08-26 15:37:40,344 [main] INFO PiloPay - Note added
+2019-08-26 15:37:44,847 [main] INFO PiloPay - Editing PC
+2019-08-26 15:37:48,025 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:37:48,166 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:37:55,440 [main] INFO PiloPay - Updated unit....
+2019-08-26 15:38:02,628 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 15:46:15,708 [main] INFO PiloPay - URL is opened
+2019-08-26 15:46:15,966 [main] INFO PiloPay - Username provided
+2019-08-26 15:46:16,078 [main] INFO PiloPay - Password provided
+2019-08-26 15:46:27,814 [main] INFO PiloPay - Unit provided
+2019-08-26 15:46:31,128 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 15:46:32,658 [main] INFO PiloPay - Icon selected
+2019-08-26 15:46:32,960 [main] INFO PiloPay - Color selected
+2019-08-26 15:46:34,572 [main] INFO PiloPay - Note added
+2019-08-26 15:46:38,990 [main] INFO PiloPay - Editing PC
+2019-08-26 15:46:42,186 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:46:42,326 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:46:49,674 [main] INFO PiloPay - Updated unit....
+2019-08-26 15:46:56,913 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 15:53:13,357 [main] INFO PiloPay - URL is opened
+2019-08-26 15:53:13,617 [main] INFO PiloPay - Username provided
+2019-08-26 15:53:13,721 [main] INFO PiloPay - Password provided
+2019-08-26 15:54:57,934 [main] INFO PiloPay - URL is opened
+2019-08-26 15:54:58,472 [main] INFO PiloPay - Username provided
+2019-08-26 15:54:58,625 [main] INFO PiloPay - Password provided
+2019-08-26 15:56:16,622 [main] INFO PiloPay - URL is opened
+2019-08-26 15:56:16,936 [main] INFO PiloPay - Username provided
+2019-08-26 15:56:17,078 [main] INFO PiloPay - Password provided
+2019-08-26 15:56:21,957 [main] INFO PiloPay - Started editing PC....
+2019-08-26 15:59:22,266 [main] INFO PiloPay - URL is opened
+2019-08-26 15:59:22,575 [main] INFO PiloPay - Username provided
+2019-08-26 15:59:22,687 [main] INFO PiloPay - Password provided
+2019-08-26 15:59:30,793 [main] INFO PiloPay - Started editing PC....
+2019-08-26 15:59:36,181 [main] INFO PiloPay - ed
+2019-08-26 15:59:41,472 [main] INFO PiloPay - Updated PCName....
+2019-08-26 15:59:41,660 [main] INFO PiloPay - Updated SC....
+2019-08-26 15:59:41,807 [main] INFO PiloPay - unit
+2019-08-26 15:59:46,927 [main] INFO PiloPay - Updated unit....
+2019-08-26 15:59:47,040 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 15:59:52,121 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 15:59:52,270 [main] INFO PiloPay - Updated factor....
+2019-08-26 15:59:52,536 [main] INFO PiloPay - Updated color....
+2019-08-26 15:59:53,862 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:01:18,837 [main] INFO PiloPay - URL is opened
+2019-08-26 16:01:19,127 [main] INFO PiloPay - Username provided
+2019-08-26 16:01:19,235 [main] INFO PiloPay - Password provided
+2019-08-26 16:01:24,523 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:01:29,911 [main] INFO PiloPay - ed
+2019-08-26 16:01:35,158 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:01:35,278 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:01:35,406 [main] INFO PiloPay - unit
+2019-08-26 16:01:40,541 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:01:40,640 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:01:45,757 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:01:45,895 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:01:46,181 [main] INFO PiloPay - Updated color....
+2019-08-26 16:01:47,485 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:06:22,080 [main] INFO PiloPay - URL is opened
+2019-08-26 16:06:22,419 [main] INFO PiloPay - Username provided
+2019-08-26 16:06:22,547 [main] INFO PiloPay - Password provided
+2019-08-26 16:06:29,918 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:06:35,300 [main] INFO PiloPay - ed
+2019-08-26 16:06:40,510 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:06:40,639 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:06:40,781 [main] INFO PiloPay - unit
+2019-08-26 16:06:45,918 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:06:46,014 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:06:51,175 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:06:51,327 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:06:51,604 [main] INFO PiloPay - Updated color....
+2019-08-26 16:06:52,893 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:10:33,596 [main] INFO PiloPay - URL is opened
+2019-08-26 16:10:33,934 [main] INFO PiloPay - Username provided
+2019-08-26 16:10:34,085 [main] INFO PiloPay - Password provided
+2019-08-26 16:10:39,078 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:10:44,344 [main] INFO PiloPay - ed
+2019-08-26 16:10:49,554 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:10:49,688 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:10:49,813 [main] INFO PiloPay - unit
+2019-08-26 16:10:54,923 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:10:55,037 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:11:00,165 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:11:00,393 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:11:00,812 [main] INFO PiloPay - Updated color....
+2019-08-26 16:11:02,133 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:14:07,295 [main] INFO PiloPay - URL is opened
+2019-08-26 16:14:07,669 [main] INFO PiloPay - Username provided
+2019-08-26 16:14:07,970 [main] INFO PiloPay - Password provided
+2019-08-26 16:14:16,332 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:14:21,682 [main] INFO PiloPay - ed
+2019-08-26 16:14:26,958 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:14:27,079 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:14:27,200 [main] INFO PiloPay - unit
+2019-08-26 16:14:32,386 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:14:32,492 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:14:37,604 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:14:37,788 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:14:38,052 [main] INFO PiloPay - Updated color....
+2019-08-26 16:14:39,390 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:14:49,670 [main] INFO PiloPay - new Note added
+2019-08-26 16:34:03,358 [main] INFO PiloPay - URL is opened
+2019-08-26 16:34:03,642 [main] INFO PiloPay - Username provided
+2019-08-26 16:34:03,778 [main] INFO PiloPay - Password provided
+2019-08-26 16:34:11,892 [main] INFO PiloPay - Unit provided
+2019-08-26 16:34:15,260 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 16:34:16,835 [main] INFO PiloPay - Icon selected
+2019-08-26 16:34:17,166 [main] INFO PiloPay - Color selected
+2019-08-26 16:34:18,797 [main] INFO PiloPay - Note added
+2019-08-26 16:34:23,023 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:34:28,430 [main] INFO PiloPay - ed
+2019-08-26 16:34:33,682 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:34:33,836 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:34:33,944 [main] INFO PiloPay - unit
+2019-08-26 16:34:39,078 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:34:39,172 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:34:44,286 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:34:44,398 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:34:44,643 [main] INFO PiloPay - Updated color....
+2019-08-26 16:34:45,963 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:34:56,363 [main] INFO PiloPay - new Note added
+2019-08-26 16:35:00,507 [main] INFO PiloPay - Validation Started...
+2019-08-26 16:35:01,129 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 16:38:34,944 [main] INFO PiloPay - URL is opened
+2019-08-26 16:38:35,272 [main] INFO PiloPay - Username provided
+2019-08-26 16:38:35,399 [main] INFO PiloPay - Password provided
+2019-08-26 16:38:43,202 [main] INFO PiloPay - Unit provided
+2019-08-26 16:38:46,475 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 16:38:48,050 [main] INFO PiloPay - Icon selected
+2019-08-26 16:38:48,459 [main] INFO PiloPay - Color selected
+2019-08-26 16:38:50,111 [main] INFO PiloPay - Note added
+2019-08-26 16:38:54,340 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:39:38,187 [main] INFO PiloPay - URL is opened
+2019-08-26 16:39:38,515 [main] INFO PiloPay - Username provided
+2019-08-26 16:39:38,633 [main] INFO PiloPay - Password provided
+2019-08-26 16:39:45,891 [main] INFO PiloPay - Unit provided
+2019-08-26 16:39:49,276 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 16:39:50,876 [main] INFO PiloPay - Icon selected
+2019-08-26 16:39:51,241 [main] INFO PiloPay - Color selected
+2019-08-26 16:39:52,857 [main] INFO PiloPay - Note added
+2019-08-26 16:39:56,989 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:40:03,307 [main] INFO PiloPay - Editing Pay Category..
+2019-08-26 16:40:03,519 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:40:03,657 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:40:03,772 [main] INFO PiloPay - unit
+2019-08-26 16:40:05,898 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:40:05,998 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:40:08,124 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:40:08,241 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:40:08,515 [main] INFO PiloPay - Updated color....
+2019-08-26 16:40:09,846 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:40:12,112 [main] INFO PiloPay - new Note added
+2019-08-26 16:40:15,254 [main] INFO PiloPay - Validation Started...
+2019-08-26 16:40:15,843 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 16:47:22,094 [main] INFO PiloPay - URL is opened
+2019-08-26 16:47:22,431 [main] INFO PiloPay - Username provided
+2019-08-26 16:47:22,556 [main] INFO PiloPay - Password provided
+2019-08-26 16:47:32,412 [main] INFO PiloPay - Unit provided
+2019-08-26 16:47:35,738 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 16:47:37,258 [main] INFO PiloPay - Icon selected
+2019-08-26 16:47:37,576 [main] INFO PiloPay - Color selected
+2019-08-26 16:47:39,215 [main] INFO PiloPay - Note added
+2019-08-26 16:47:43,335 [main] INFO PiloPay - Validation Started...
+2019-08-26 16:47:43,370 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 16:47:43,438 [main] INFO PiloPay - Started editing PC....
+2019-08-26 16:47:46,697 [main] INFO PiloPay - Editing Pay Category..
+2019-08-26 16:47:47,049 [main] INFO PiloPay - Updated PCName....
+2019-08-26 16:47:47,175 [main] INFO PiloPay - Updated SC....
+2019-08-26 16:47:47,272 [main] INFO PiloPay - unit
+2019-08-26 16:47:49,376 [main] INFO PiloPay - Updated unit....
+2019-08-26 16:47:49,498 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:47:51,589 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 16:47:51,692 [main] INFO PiloPay - Updated factor....
+2019-08-26 16:47:51,947 [main] INFO PiloPay - Updated color....
+2019-08-26 16:47:53,227 [main] INFO PiloPay - Added noteName....
+2019-08-26 16:47:55,503 [main] INFO PiloPay - new Note added
+2019-08-26 16:47:58,654 [main] INFO PiloPay - Validation Started...
+2019-08-26 16:47:58,672 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-26 17:01:44,204 [main] INFO PiloPay - URL is opened
+2019-08-26 17:01:44,543 [main] INFO PiloPay - Username provided
+2019-08-26 17:01:44,672 [main] INFO PiloPay - Password provided
+2019-08-26 17:01:52,316 [main] INFO PiloPay - Unit provided
+2019-08-26 17:01:55,657 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-26 17:01:57,176 [main] INFO PiloPay - Icon selected
+2019-08-26 17:01:57,546 [main] INFO PiloPay - Color selected
+2019-08-26 17:01:59,213 [main] INFO PiloPay - Note added
+2019-08-26 17:02:03,310 [main] INFO PiloPay - Validation Started...
+2019-08-26 17:02:03,322 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-26 17:02:03,444 [main] INFO PiloPay - Started editing PC....
+2019-08-26 17:02:06,693 [main] INFO PiloPay - Editing Pay Category..
+2019-08-26 17:02:06,988 [main] INFO PiloPay - Updated PCName....
+2019-08-26 17:02:07,133 [main] INFO PiloPay - Updated SC....
+2019-08-26 17:02:07,225 [main] INFO PiloPay - unit
+2019-08-26 17:02:09,333 [main] INFO PiloPay - Updated unit....
+2019-08-26 17:02:09,434 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 17:02:11,569 [main] INFO PiloPay - Updated WDPcode....
+2019-08-26 17:02:11,674 [main] INFO PiloPay - Updated factor....
+2019-08-26 17:02:11,925 [main] INFO PiloPay - Updated color....
+2019-08-26 17:02:13,216 [main] INFO PiloPay - Added noteName....
+2019-08-26 17:02:15,483 [main] INFO PiloPay - new Note added
+2019-08-26 17:02:18,630 [main] INFO PiloPay - Validation Started...
+2019-08-26 17:02:18,644 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-26 17:02:18,747 [main] INFO PiloPay - Started deleting PC....
+2019-08-26 17:02:22,049 [main] INFO PiloPay - Editing Pay Category..
+2019-08-26 17:02:22,199 [main] INFO PiloPay - Clicked delete PC..
+2019-08-26 17:02:25,201 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-26 17:02:28,347 [main] INFO PiloPay - Validation Started...
+2019-08-26 17:02:28,356 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-26 17:08:02,563 [main] INFO PiloPay - URL is opened
+2019-08-26 17:08:02,935 [main] INFO PiloPay - Username provided
+2019-08-26 17:08:03,055 [main] INFO PiloPay - Password provided
+2019-08-26 17:08:10,004 [main] INFO PiloPay - Started deleting PC....
+2019-08-26 17:08:13,321 [main] INFO PiloPay - Editing Pay Category..
+2019-08-26 17:08:13,537 [main] INFO PiloPay - Clicked delete PC..
+2019-08-26 17:08:16,538 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-26 17:08:19,627 [main] INFO PiloPay - Validation Started...
+2019-08-26 17:08:19,651 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-27 09:05:46,133 [main] INFO PiloPay - URL is opened
+2019-08-27 09:05:46,361 [main] INFO PiloPay - Username provided
+2019-08-27 09:05:46,484 [main] INFO PiloPay - Password provided
+2019-08-27 09:05:55,565 [main] INFO PiloPay - Started deleting PC....
+2019-08-27 09:05:59,019 [main] INFO PiloPay - Editing Pay Category..
+2019-08-27 09:05:59,274 [main] INFO PiloPay - Clicked delete PC..
+2019-08-27 09:06:02,276 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-27 09:06:05,375 [main] INFO PiloPay - Validation Started...
+2019-08-27 09:06:05,387 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-28 09:13:24,427 [main] INFO PiloPay - URL is opened
+2019-08-28 09:13:24,691 [main] INFO PiloPay - Username provided
+2019-08-28 09:13:24,818 [main] INFO PiloPay - Password provided
+2019-08-28 09:13:32,209 [main] INFO PiloPay - Started deleting PC....
+2019-08-28 09:58:22,946 [main] INFO PiloPay - URL is opened
+2019-08-28 09:58:23,319 [main] INFO PiloPay - USERNAME Entered
+2019-08-28 09:58:23,560 [main] INFO PiloPay - PASSWORD Entered
+2019-08-28 09:58:23,704 [main] INFO PiloPay - LoginTest Passed
+2019-08-28 09:58:36,889 [main] INFO PiloPay - URL is opened
+2019-08-28 09:58:37,119 [main] INFO PiloPay - Username provided
+2019-08-28 09:58:37,263 [main] INFO PiloPay - Password provided
+2019-08-28 09:58:43,816 [main] INFO PiloPay - Started deleting PC....
+2019-08-28 09:59:13,327 [main] INFO PiloPay - URL is opened
+2019-08-28 09:59:13,547 [main] INFO PiloPay - Username provided
+2019-08-28 09:59:13,658 [main] INFO PiloPay - Password provided
+2019-08-28 09:59:21,631 [main] INFO PiloPay - Unit provided
+2019-08-28 09:59:24,994 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-28 09:59:26,608 [main] INFO PiloPay - Icon selected
+2019-08-28 09:59:26,893 [main] INFO PiloPay - Color selected
+2019-08-28 09:59:28,508 [main] INFO PiloPay - Note added
+2019-08-28 09:59:32,608 [main] INFO PiloPay - Validation Started...
+2019-08-28 09:59:32,617 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-28 09:59:32,692 [main] INFO PiloPay - Started editing PC....
+2019-08-28 09:59:36,118 [main] INFO PiloPay - Editing Pay Category..
+2019-08-28 09:59:37,856 [main] INFO PiloPay - Updated PCName....
+2019-08-28 09:59:38,053 [main] INFO PiloPay - Updated SC....
+2019-08-28 09:59:38,197 [main] INFO PiloPay - unit
+2019-08-28 09:59:40,272 [main] INFO PiloPay - Updated unit....
+2019-08-28 09:59:40,379 [main] INFO PiloPay - Updated WDPcode....
+2019-08-28 09:59:42,594 [main] INFO PiloPay - Updated WDPcode....
+2019-08-28 09:59:42,844 [main] INFO PiloPay - Updated factor....
+2019-08-28 09:59:43,579 [main] INFO PiloPay - Updated color....
+2019-08-28 09:59:45,494 [main] INFO PiloPay - Added noteName....
+2019-08-28 09:59:47,926 [main] INFO PiloPay - new Note added
+2019-08-28 09:59:51,162 [main] INFO PiloPay - Validation Started...
+2019-08-28 09:59:51,168 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-28 09:59:51,280 [main] INFO PiloPay - Started deleting PC....
+2019-08-28 09:59:54,546 [main] INFO PiloPay - Editing Pay Category..
+2019-08-28 09:59:54,692 [main] INFO PiloPay - Clicked delete PC..
+2019-08-28 09:59:57,693 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-28 10:00:00,959 [main] INFO PiloPay - Validation Started...
+2019-08-28 10:00:00,965 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-28 10:09:38,774 [main] INFO PiloPay - URL is opened
+2019-08-28 10:09:39,390 [main] INFO PiloPay - USERNAME Entered
+2019-08-28 10:09:39,853 [main] INFO PiloPay - PASSWORD Entered
+2019-08-28 10:09:40,180 [main] INFO PiloPay - LoginTest Passed
+2019-08-28 10:10:04,945 [main] INFO PiloPay - URL is opened
+2019-08-28 10:10:05,583 [main] INFO PiloPay - Username provided
+2019-08-28 10:10:05,828 [main] INFO PiloPay - Password provided
+2019-08-28 10:10:17,851 [main] INFO PiloPay - Unit provided
+2019-08-28 10:10:21,199 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-28 10:10:22,942 [main] INFO PiloPay - Icon selected
+2019-08-28 10:10:23,398 [main] INFO PiloPay - Color selected
+2019-08-28 10:10:25,149 [main] INFO PiloPay - Note added
+2019-08-28 10:10:29,248 [main] INFO PiloPay - Validation Started...
+2019-08-28 10:10:29,260 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-28 10:10:29,336 [main] INFO PiloPay - Started editing PC....
+2019-08-28 10:10:33,281 [main] INFO PiloPay - Editing Pay Category..
+2019-08-28 10:10:34,068 [main] INFO PiloPay - Updated PCName....
+2019-08-28 10:10:34,302 [main] INFO PiloPay - Updated SC....
+2019-08-28 10:10:34,809 [main] INFO PiloPay - unit
+2019-08-28 10:10:36,933 [main] INFO PiloPay - Updated unit....
+2019-08-28 10:10:37,063 [main] INFO PiloPay - Updated WDPcode....
+2019-08-28 10:10:39,195 [main] INFO PiloPay - Updated WDPcode....
+2019-08-28 10:10:39,420 [main] INFO PiloPay - Updated factor....
+2019-08-28 10:10:39,875 [main] INFO PiloPay - Updated color....
+2019-08-28 10:10:41,200 [main] INFO PiloPay - Added noteName....
+2019-08-28 10:10:43,518 [main] INFO PiloPay - new Note added
+2019-08-28 10:10:46,735 [main] INFO PiloPay - Validation Started...
+2019-08-28 10:10:46,749 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-28 10:10:46,817 [main] INFO PiloPay - Started deleting PC....
+2019-08-28 10:10:50,229 [main] INFO PiloPay - Editing Pay Category..
+2019-08-28 10:10:50,449 [main] INFO PiloPay - Clicked delete PC..
+2019-08-28 10:10:53,450 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-28 10:10:56,546 [main] INFO PiloPay - Validation Started...
+2019-08-28 10:10:56,553 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-29 09:13:01,646 [main] INFO PiloPay - URL is opened
+2019-08-29 09:13:03,126 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 09:13:03,618 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 09:13:07,578 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 09:13:24,392 [main] INFO PiloPay - URL is opened
+2019-08-29 09:13:24,844 [main] INFO PiloPay - Username provided
+2019-08-29 09:13:25,000 [main] INFO PiloPay - Password provided
+2019-08-29 09:29:07,324 [main] INFO PiloPay - URL is opened
+2019-08-29 09:29:07,659 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 09:29:07,890 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 09:29:08,021 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 09:29:20,012 [main] INFO PiloPay - URL is opened
+2019-08-29 09:29:20,235 [main] INFO PiloPay - Username provided
+2019-08-29 09:29:20,388 [main] INFO PiloPay - Password provided
+2019-08-29 09:30:32,416 [main] INFO PiloPay - URL is opened
+2019-08-29 09:30:32,798 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 09:30:32,971 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 09:30:33,188 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 09:30:47,930 [main] INFO PiloPay - URL is opened
+2019-08-29 09:30:48,319 [main] INFO PiloPay - Username provided
+2019-08-29 09:30:48,495 [main] INFO PiloPay - Password provided
+2019-08-29 09:40:34,465 [main] INFO PiloPay - URL is opened
+2019-08-29 09:40:34,797 [main] INFO PiloPay - Username provided
+2019-08-29 09:40:35,006 [main] INFO PiloPay - Password provided
+2019-08-29 09:40:43,036 [main] INFO PiloPay - Unit provided
+2019-08-29 09:40:46,396 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 09:40:47,948 [main] INFO PiloPay - Icon selected
+2019-08-29 09:40:48,455 [main] INFO PiloPay - Color selected
+2019-08-29 09:40:50,031 [main] INFO PiloPay - Note added
+2019-08-29 09:40:54,138 [main] INFO PiloPay - Validation Started...
+2019-08-29 09:40:54,164 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 09:40:54,262 [main] INFO PiloPay - Started editing PC....
+2019-08-29 09:40:57,624 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 09:40:57,950 [main] INFO PiloPay - Updated PCName....
+2019-08-29 09:40:58,112 [main] INFO PiloPay - Updated SC....
+2019-08-29 09:40:58,205 [main] INFO PiloPay - unit
+2019-08-29 09:41:00,357 [main] INFO PiloPay - Updated unit....
+2019-08-29 09:41:00,509 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 09:41:02,590 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 09:41:02,720 [main] INFO PiloPay - Updated factor....
+2019-08-29 09:41:02,987 [main] INFO PiloPay - Updated color....
+2019-08-29 09:41:04,350 [main] INFO PiloPay - Added noteName....
+2019-08-29 09:41:06,849 [main] INFO PiloPay - new Note added
+2019-08-29 09:41:10,047 [main] INFO PiloPay - Validation Started...
+2019-08-29 09:41:10,061 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-29 09:41:10,173 [main] INFO PiloPay - Started deleting PC....
+2019-08-29 09:41:13,760 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 09:41:14,136 [main] INFO PiloPay - Clicked delete PC..
+2019-08-29 09:41:17,133 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-29 09:41:20,207 [main] INFO PiloPay - Validation Started...
+2019-08-29 09:41:20,215 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-29 09:41:56,185 [main] INFO PiloPay - URL is opened
+2019-08-29 09:41:56,432 [main] INFO PiloPay - Username provided
+2019-08-29 09:41:56,543 [main] INFO PiloPay - Password provided
+2019-08-29 09:42:03,692 [main] INFO PiloPay - Unit provided
+2019-08-29 09:42:06,979 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 09:42:08,563 [main] INFO PiloPay - Icon selected
+2019-08-29 09:42:08,912 [main] INFO PiloPay - Color selected
+2019-08-29 09:42:10,518 [main] INFO PiloPay - Note added
+2019-08-29 09:42:14,619 [main] INFO PiloPay - Validation Started...
+2019-08-29 09:42:14,664 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 09:42:14,749 [main] INFO PiloPay - Started editing PC....
+2019-08-29 09:42:17,992 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 09:42:18,309 [main] INFO PiloPay - Updated PCName....
+2019-08-29 09:42:18,496 [main] INFO PiloPay - Updated SC....
+2019-08-29 09:42:18,618 [main] INFO PiloPay - unit
+2019-08-29 09:42:20,704 [main] INFO PiloPay - Updated unit....
+2019-08-29 09:42:20,820 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 09:42:22,919 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 09:42:23,074 [main] INFO PiloPay - Updated factor....
+2019-08-29 09:42:23,484 [main] INFO PiloPay - Updated color....
+2019-08-29 09:42:24,851 [main] INFO PiloPay - Added noteName....
+2019-08-29 09:42:27,222 [main] INFO PiloPay - new Note added
+2019-08-29 09:42:30,457 [main] INFO PiloPay - Validation Started...
+2019-08-29 09:42:30,463 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-29 09:42:30,535 [main] INFO PiloPay - Started deleting PC....
+2019-08-29 09:42:34,025 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 09:42:34,464 [main] INFO PiloPay - Clicked delete PC..
+2019-08-29 09:42:37,465 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-29 09:42:40,574 [main] INFO PiloPay - Validation Started...
+2019-08-29 09:42:40,583 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-29 14:22:31,035 [main] INFO PiloPay - URL is opened
+2019-08-29 14:22:31,306 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 14:22:31,438 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 14:22:31,576 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 14:22:44,317 [main] INFO PiloPay - URL is opened
+2019-08-29 14:22:44,631 [main] INFO PiloPay - Username provided
+2019-08-29 14:22:44,775 [main] INFO PiloPay - Password provided
+2019-08-29 14:22:55,334 [main] INFO PiloPay - Unit provided
+2019-08-29 14:22:58,695 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:23:00,455 [main] INFO PiloPay - Icon selected
+2019-08-29 14:23:00,866 [main] INFO PiloPay - Color selected
+2019-08-29 14:23:02,628 [main] INFO PiloPay - Note added
+2019-08-29 14:23:06,723 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:23:06,730 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:23:06,787 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:23:10,005 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:23:10,271 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:23:10,396 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:23:10,479 [main] INFO PiloPay - unit
+2019-08-29 14:23:12,549 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:23:12,631 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:23:14,738 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:23:14,844 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:23:15,060 [main] INFO PiloPay - Updated color....
+2019-08-29 14:23:16,350 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:23:18,594 [main] INFO PiloPay - new Note added
+2019-08-29 14:23:21,751 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:27:36,446 [main] INFO PiloPay - URL is opened
+2019-08-29 14:27:38,768 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 14:27:38,890 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 14:27:39,012 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 14:27:50,725 [main] INFO PiloPay - URL is opened
+2019-08-29 14:27:50,915 [main] INFO PiloPay - Username provided
+2019-08-29 14:27:51,018 [main] INFO PiloPay - Password provided
+2019-08-29 14:28:53,293 [main] INFO PiloPay - URL is opened
+2019-08-29 14:28:53,546 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 14:28:53,672 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 14:28:53,788 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 14:29:06,582 [main] INFO PiloPay - URL is opened
+2019-08-29 14:29:06,788 [main] INFO PiloPay - Username provided
+2019-08-29 14:29:06,892 [main] INFO PiloPay - Password provided
+2019-08-29 14:29:14,851 [main] INFO PiloPay - Unit provided
+2019-08-29 14:29:18,192 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:29:19,824 [main] INFO PiloPay - Icon selected
+2019-08-29 14:29:20,121 [main] INFO PiloPay - Color selected
+2019-08-29 14:29:21,680 [main] INFO PiloPay - Note added
+2019-08-29 14:29:25,818 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:29:25,838 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:29:25,930 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:29:29,238 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:29:29,489 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:29:29,615 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:29:29,692 [main] INFO PiloPay - unit
+2019-08-29 14:29:31,761 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:29:31,856 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:29:33,950 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:29:34,050 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:29:34,366 [main] INFO PiloPay - Updated color....
+2019-08-29 14:29:35,610 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:29:37,905 [main] INFO PiloPay - new Note added
+2019-08-29 14:29:41,107 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:31:56,542 [main] INFO PiloPay - URL is opened
+2019-08-29 14:31:56,857 [main] INFO PiloPay - Username provided
+2019-08-29 14:31:57,021 [main] INFO PiloPay - Password provided
+2019-08-29 14:32:06,063 [main] INFO PiloPay - Unit provided
+2019-08-29 14:32:09,415 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:32:10,955 [main] INFO PiloPay - Icon selected
+2019-08-29 14:32:11,270 [main] INFO PiloPay - Color selected
+2019-08-29 14:32:12,929 [main] INFO PiloPay - Note added
+2019-08-29 14:32:17,090 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:32:17,100 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:32:17,170 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:32:20,442 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:32:20,683 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:32:20,883 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:32:20,962 [main] INFO PiloPay - unit
+2019-08-29 14:32:23,085 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:32:23,177 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:32:25,329 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:32:25,432 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:32:25,698 [main] INFO PiloPay - Updated color....
+2019-08-29 14:32:26,982 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:32:29,390 [main] INFO PiloPay - new Note added
+2019-08-29 14:32:32,527 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:32:32,535 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-29 14:32:32,621 [main] INFO PiloPay - Started deleting PC....
+2019-08-29 14:32:35,925 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:32:36,081 [main] INFO PiloPay - Clicked delete PC..
+2019-08-29 14:32:39,082 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-29 14:32:42,220 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:32:42,243 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-29 14:33:28,293 [main] INFO PiloPay - URL is opened
+2019-08-29 14:33:28,560 [main] INFO PiloPay - Username provided
+2019-08-29 14:33:28,682 [main] INFO PiloPay - Password provided
+2019-08-29 14:35:06,314 [main] INFO PiloPay - URL is opened
+2019-08-29 14:35:06,605 [main] INFO PiloPay - Username provided
+2019-08-29 14:35:06,721 [main] INFO PiloPay - Password provided
+2019-08-29 14:36:20,229 [main] INFO PiloPay - URL is opened
+2019-08-29 14:36:20,485 [main] INFO PiloPay - Username provided
+2019-08-29 14:36:20,610 [main] INFO PiloPay - Password provided
+2019-08-29 14:36:29,095 [main] INFO PiloPay - Unit provided
+2019-08-29 14:36:32,471 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:36:34,171 [main] INFO PiloPay - Icon selected
+2019-08-29 14:36:34,491 [main] INFO PiloPay - Color selected
+2019-08-29 14:36:36,049 [main] INFO PiloPay - Note added
+2019-08-29 14:36:40,142 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:36:40,249 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:36:40,358 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:36:43,622 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:36:43,877 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:36:44,025 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:36:44,130 [main] INFO PiloPay - unit
+2019-08-29 14:36:46,207 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:36:46,306 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:36:48,392 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:36:48,517 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:36:48,776 [main] INFO PiloPay - Updated color....
+2019-08-29 14:36:50,174 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:36:52,600 [main] INFO PiloPay - new Note added
+2019-08-29 14:36:55,773 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:37:21,985 [main] INFO PiloPay - URL is opened
+2019-08-29 14:37:22,242 [main] INFO PiloPay - Username provided
+2019-08-29 14:37:22,370 [main] INFO PiloPay - Password provided
+2019-08-29 14:37:29,797 [main] INFO PiloPay - Unit provided
+2019-08-29 14:37:33,229 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:37:34,770 [main] INFO PiloPay - Icon selected
+2019-08-29 14:37:35,083 [main] INFO PiloPay - Color selected
+2019-08-29 14:37:36,765 [main] INFO PiloPay - Note added
+2019-08-29 14:37:40,910 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:37:40,924 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:37:40,989 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:37:45,624 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:37:46,272 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:37:46,461 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:37:46,547 [main] INFO PiloPay - unit
+2019-08-29 14:37:48,669 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:37:48,851 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:37:50,934 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:37:51,027 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:37:51,253 [main] INFO PiloPay - Updated color....
+2019-08-29 14:37:52,514 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:37:54,856 [main] INFO PiloPay - new Note added
+2019-08-29 14:37:57,982 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:39:35,967 [main] INFO PiloPay - URL is opened
+2019-08-29 14:39:36,219 [main] INFO PiloPay - Username provided
+2019-08-29 14:39:36,352 [main] INFO PiloPay - Password provided
+2019-08-29 14:40:56,642 [main] INFO PiloPay - URL is opened
+2019-08-29 14:40:56,903 [main] INFO PiloPay - Username provided
+2019-08-29 14:40:57,024 [main] INFO PiloPay - Password provided
+2019-08-29 14:42:16,799 [main] INFO PiloPay - URL is opened
+2019-08-29 14:42:17,128 [main] INFO PiloPay - Username provided
+2019-08-29 14:42:17,290 [main] INFO PiloPay - Password provided
+2019-08-29 14:42:26,937 [main] INFO PiloPay - Unit provided
+2019-08-29 14:42:30,304 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:42:31,887 [main] INFO PiloPay - Icon selected
+2019-08-29 14:42:32,203 [main] INFO PiloPay - Color selected
+2019-08-29 14:42:34,005 [main] INFO PiloPay - Note added
+2019-08-29 14:42:38,135 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:42:38,144 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:42:38,204 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:42:41,450 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:42:41,684 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:42:41,819 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:42:41,924 [main] INFO PiloPay - unit
+2019-08-29 14:42:43,990 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:42:44,085 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:42:46,170 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:42:46,280 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:42:46,572 [main] INFO PiloPay - Updated color....
+2019-08-29 14:42:47,883 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:42:50,311 [main] INFO PiloPay - new Note added
+2019-08-29 14:42:53,444 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:48:30,850 [main] INFO PiloPay - URL is opened
+2019-08-29 14:48:31,146 [main] INFO PiloPay - Username provided
+2019-08-29 14:48:31,314 [main] INFO PiloPay - Password provided
+2019-08-29 14:48:41,843 [main] INFO PiloPay - Unit provided
+2019-08-29 14:48:45,278 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 14:48:46,829 [main] INFO PiloPay - Icon selected
+2019-08-29 14:48:47,212 [main] INFO PiloPay - Color selected
+2019-08-29 14:48:48,890 [main] INFO PiloPay - Note added
+2019-08-29 14:48:52,965 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:48:52,992 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 14:48:53,104 [main] INFO PiloPay - Started editing PC....
+2019-08-29 14:48:56,406 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:48:56,707 [main] INFO PiloPay - Updated PCName....
+2019-08-29 14:48:56,843 [main] INFO PiloPay - Updated SC....
+2019-08-29 14:48:56,953 [main] INFO PiloPay - unit
+2019-08-29 14:48:59,060 [main] INFO PiloPay - Updated unit....
+2019-08-29 14:48:59,173 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:49:01,288 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 14:49:01,391 [main] INFO PiloPay - Updated factor....
+2019-08-29 14:49:01,659 [main] INFO PiloPay - Updated color....
+2019-08-29 14:49:02,898 [main] INFO PiloPay - Added noteName....
+2019-08-29 14:49:05,243 [main] INFO PiloPay - new Note added
+2019-08-29 14:49:08,434 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:49:08,455 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-29 14:49:08,572 [main] INFO PiloPay - Started deleting PC....
+2019-08-29 14:49:11,868 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 14:49:12,033 [main] INFO PiloPay - Clicked delete PC..
+2019-08-29 14:49:15,034 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-29 14:49:18,133 [main] INFO PiloPay - Validation Started...
+2019-08-29 14:49:18,139 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-08-29 15:04:16,708 [main] INFO PiloPay - URL is opened
+2019-08-29 15:04:16,965 [main] INFO PiloPay - Username provided
+2019-08-29 15:04:17,071 [main] INFO PiloPay - Password provided
+2019-08-29 16:15:04,361 [main] INFO PiloPay - URL is opened
+2019-08-29 16:15:04,625 [main] INFO PiloPay - USERNAME Entered
+2019-08-29 16:15:04,732 [main] INFO PiloPay - PASSWORD Entered
+2019-08-29 16:15:04,844 [main] INFO PiloPay - LoginTest Passed
+2019-08-29 16:15:15,247 [main] INFO PiloPay - URL is opened
+2019-08-29 16:15:15,524 [main] INFO PiloPay - Username provided
+2019-08-29 16:15:15,629 [main] INFO PiloPay - Password provided
+2019-08-29 16:15:22,828 [main] INFO PiloPay - Unit provided
+2019-08-29 16:15:26,136 [main] INFO PiloPay - WorkdayPaycode selected
+2019-08-29 16:15:27,713 [main] INFO PiloPay - Icon selected
+2019-08-29 16:15:28,006 [main] INFO PiloPay - Color selected
+2019-08-29 16:15:29,606 [main] INFO PiloPay - Note added
+2019-08-29 16:15:33,686 [main] INFO PiloPay - Validation Started...
+2019-08-29 16:15:33,695 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-08-29 16:15:33,756 [main] INFO PiloPay - Started editing PC....
+2019-08-29 16:15:37,067 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 16:15:37,403 [main] INFO PiloPay - Updated PCName....
+2019-08-29 16:15:37,534 [main] INFO PiloPay - Updated SC....
+2019-08-29 16:15:37,622 [main] INFO PiloPay - unit
+2019-08-29 16:15:39,712 [main] INFO PiloPay - Updated unit....
+2019-08-29 16:15:39,800 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 16:15:41,880 [main] INFO PiloPay - Updated WDPcode....
+2019-08-29 16:15:42,001 [main] INFO PiloPay - Updated factor....
+2019-08-29 16:15:42,224 [main] INFO PiloPay - Updated color....
+2019-08-29 16:15:43,502 [main] INFO PiloPay - Added noteName....
+2019-08-29 16:15:45,931 [main] INFO PiloPay - new Note added
+2019-08-29 16:15:49,181 [main] INFO PiloPay - Validation Started...
+2019-08-29 16:15:49,190 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-08-29 16:15:49,290 [main] INFO PiloPay - Started deleting PC....
+2019-08-29 16:15:52,545 [main] INFO PiloPay - Editing Pay Category..
+2019-08-29 16:15:52,763 [main] INFO PiloPay - Clicked delete PC..
+2019-08-29 16:15:55,765 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-08-29 16:15:58,860 [main] INFO PiloPay - Validation Started...
+2019-08-29 16:15:58,887 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-03 09:25:34,129 [main] INFO PiloPay - URL is opened
+2019-09-03 09:25:37,183 [main] INFO PiloPay - Username provided
+2019-09-03 09:25:37,346 [main] INFO PiloPay - Password provided
+2019-09-03 09:25:48,030 [main] INFO PiloPay - Unit provided
+2019-09-03 09:25:51,366 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-03 09:25:53,069 [main] INFO PiloPay - Icon selected
+2019-09-03 09:25:53,409 [main] INFO PiloPay - Color selected
+2019-09-03 09:25:55,019 [main] INFO PiloPay - Note added
+2019-09-03 09:25:59,155 [main] INFO PiloPay - Validation Started...
+2019-09-03 09:25:59,543 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-03 09:26:00,493 [main] INFO PiloPay - Started editing PC....
+2019-09-03 09:26:04,866 [main] INFO PiloPay - Editing Pay Category..
+2019-09-03 09:26:05,810 [main] INFO PiloPay - Updated PCName....
+2019-09-03 09:26:06,051 [main] INFO PiloPay - Updated SC....
+2019-09-03 09:26:06,180 [main] INFO PiloPay - unit
+2019-09-03 09:26:08,302 [main] INFO PiloPay - Updated unit....
+2019-09-03 09:26:08,448 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 09:26:10,550 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 09:26:10,675 [main] INFO PiloPay - Updated factor....
+2019-09-03 09:26:11,007 [main] INFO PiloPay - Updated color....
+2019-09-03 09:26:12,318 [main] INFO PiloPay - Added noteName....
+2019-09-03 09:26:14,878 [main] INFO PiloPay - new Note added
+2019-09-03 09:26:18,300 [main] INFO PiloPay - Validation Started...
+2019-09-03 09:26:18,307 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-03 09:26:18,385 [main] INFO PiloPay - Started deleting PC....
+2019-09-03 09:26:21,923 [main] INFO PiloPay - Editing Pay Category..
+2019-09-03 09:26:22,256 [main] INFO PiloPay - Clicked delete PC..
+2019-09-03 09:26:25,255 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-03 09:26:28,367 [main] INFO PiloPay - Validation Started...
+2019-09-03 09:26:28,557 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-03 09:35:10,591 [main] INFO PiloPay - URL is opened
+2019-09-03 09:35:13,370 [main] INFO PiloPay - USERNAME Entered
+2019-09-03 09:35:13,495 [main] INFO PiloPay - PASSWORD Entered
+2019-09-03 09:35:13,609 [main] INFO PiloPay - LoginTest Passed
+2019-09-03 09:35:51,669 [main] INFO PiloPay - URL is opened
+2019-09-03 09:35:51,897 [main] INFO PiloPay - Username provided
+2019-09-03 09:35:52,029 [main] INFO PiloPay - Password provided
+2019-09-03 09:35:58,526 [main] INFO PiloPay - Unit provided
+2019-09-03 09:36:01,931 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-03 09:36:03,548 [main] INFO PiloPay - Icon selected
+2019-09-03 09:36:03,947 [main] INFO PiloPay - Color selected
+2019-09-03 09:36:05,792 [main] INFO PiloPay - Note added
+2019-09-03 09:36:09,875 [main] INFO PiloPay - Validation Started...
+2019-09-03 09:36:09,881 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-03 09:36:09,946 [main] INFO PiloPay - Started editing PC....
+2019-09-03 09:36:13,299 [main] INFO PiloPay - Editing Pay Category..
+2019-09-03 09:36:13,705 [main] INFO PiloPay - Updated PCName....
+2019-09-03 09:36:13,894 [main] INFO PiloPay - Updated SC....
+2019-09-03 09:36:14,028 [main] INFO PiloPay - unit
+2019-09-03 09:36:16,121 [main] INFO PiloPay - Updated unit....
+2019-09-03 09:36:16,255 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 09:36:18,330 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 09:36:18,507 [main] INFO PiloPay - Updated factor....
+2019-09-03 09:36:18,833 [main] INFO PiloPay - Updated color....
+2019-09-03 09:36:20,103 [main] INFO PiloPay - Added noteName....
+2019-09-03 09:36:22,403 [main] INFO PiloPay - new Note added
+2019-09-03 09:36:25,586 [main] INFO PiloPay - Validation Started...
+2019-09-03 09:36:25,601 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-03 09:36:25,699 [main] INFO PiloPay - Started deleting PC....
+2019-09-03 09:36:29,006 [main] INFO PiloPay - Editing Pay Category..
+2019-09-03 09:36:29,181 [main] INFO PiloPay - Clicked delete PC..
+2019-09-03 09:36:32,182 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-03 09:36:35,293 [main] INFO PiloPay - Validation Started...
+2019-09-03 09:36:35,307 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-03 09:38:56,562 [main] INFO PiloPay - URL is opened
+2019-09-03 09:38:56,809 [main] INFO PiloPay - USERNAME Entered
+2019-09-03 09:38:56,911 [main] INFO PiloPay - PASSWORD Entered
+2019-09-03 09:38:57,006 [main] INFO PiloPay - LoginTest Passed
+2019-09-03 09:39:40,814 [main] INFO PiloPay - URL is opened
+2019-09-03 09:39:41,034 [main] INFO PiloPay - Username provided
+2019-09-03 09:39:41,130 [main] INFO PiloPay - Password provided
+2019-09-03 15:05:13,524 [main] INFO PiloPay - URL is opened
+2019-09-03 15:05:13,869 [main] INFO PiloPay - USERNAME Entered
+2019-09-03 15:05:14,254 [main] INFO PiloPay - PASSWORD Entered
+2019-09-03 15:05:14,518 [main] INFO PiloPay - LoginTest Passed
+2019-09-03 15:06:10,704 [main] INFO PiloPay - URL is opened
+2019-09-03 15:06:10,894 [main] INFO PiloPay - Username provided
+2019-09-03 15:06:10,994 [main] INFO PiloPay - Password provided
+2019-09-03 15:06:19,383 [main] INFO PiloPay - Unit provided
+2019-09-03 15:06:22,822 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-03 15:06:25,004 [main] INFO PiloPay - Icon selected
+2019-09-03 15:06:25,319 [main] INFO PiloPay - Color selected
+2019-09-03 15:06:27,020 [main] INFO PiloPay - Note added
+2019-09-03 15:06:31,111 [main] INFO PiloPay - Validation Started...
+2019-09-03 15:06:31,118 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-03 15:06:31,180 [main] INFO PiloPay - Started editing PC....
+2019-09-03 15:06:34,525 [main] INFO PiloPay - Editing Pay Category..
+2019-09-03 15:06:34,813 [main] INFO PiloPay - Updated PCName....
+2019-09-03 15:06:34,948 [main] INFO PiloPay - Updated SC....
+2019-09-03 15:06:35,028 [main] INFO PiloPay - unit
+2019-09-03 15:06:37,116 [main] INFO PiloPay - Updated unit....
+2019-09-03 15:06:37,231 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 15:06:39,299 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 15:06:39,402 [main] INFO PiloPay - Updated factor....
+2019-09-03 15:06:39,664 [main] INFO PiloPay - Updated color....
+2019-09-03 15:06:40,934 [main] INFO PiloPay - Added noteName....
+2019-09-03 15:06:43,210 [main] INFO PiloPay - new Note added
+2019-09-03 15:06:46,394 [main] INFO PiloPay - Validation Started...
+2019-09-03 15:41:48,973 [main] INFO PiloPay - URL is opened
+2019-09-03 15:41:49,245 [main] INFO PiloPay - USERNAME Entered
+2019-09-03 15:41:49,389 [main] INFO PiloPay - PASSWORD Entered
+2019-09-03 15:41:49,505 [main] INFO PiloPay - LoginTest Passed
+2019-09-03 15:42:04,716 [main] INFO PiloPay - USERNAME provided
+2019-09-03 15:42:06,847 [main] INFO PiloPay - Password provided
+2019-09-03 15:42:22,249 [main] INFO PiloPay - Login passed
+2019-09-03 15:42:25,852 [main] INFO PiloPay - USERNAME provided
+2019-09-03 15:42:27,935 [main] INFO PiloPay - Password provided
+2019-09-03 15:42:31,774 [main] INFO PiloPay - USERNAME provided
+2019-09-03 15:42:33,868 [main] INFO PiloPay - Password provided
+2019-09-03 15:42:37,936 [main] INFO PiloPay - USERNAME provided
+2019-09-03 15:42:40,038 [main] INFO PiloPay - Password provided
+2019-09-03 15:42:54,919 [main] INFO PiloPay - Login passed
+2019-09-03 15:42:58,403 [main] INFO PiloPay - USERNAME provided
+2019-09-03 15:43:00,491 [main] INFO PiloPay - Password provided
+2019-09-03 15:43:17,260 [main] INFO PiloPay - URL is opened
+2019-09-03 15:43:17,500 [main] INFO PiloPay - Username provided
+2019-09-03 15:43:17,624 [main] INFO PiloPay - Password provided
+2019-09-03 15:43:26,625 [main] INFO PiloPay - Unit provided
+2019-09-03 15:43:29,970 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-03 15:43:31,687 [main] INFO PiloPay - Icon selected
+2019-09-03 15:43:32,045 [main] INFO PiloPay - Color selected
+2019-09-03 15:43:33,713 [main] INFO PiloPay - Note added
+2019-09-03 15:43:37,811 [main] INFO PiloPay - Validation Started...
+2019-09-03 15:43:37,817 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-03 15:43:37,872 [main] INFO PiloPay - Started editing PC....
+2019-09-03 15:43:41,189 [main] INFO PiloPay - Editing Pay Category..
+2019-09-03 15:43:41,439 [main] INFO PiloPay - Updated PCName....
+2019-09-03 15:43:41,594 [main] INFO PiloPay - Updated SC....
+2019-09-03 15:43:41,705 [main] INFO PiloPay - unit
+2019-09-03 15:43:43,774 [main] INFO PiloPay - Updated unit....
+2019-09-03 15:43:43,870 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 15:43:45,942 [main] INFO PiloPay - Updated WDPcode....
+2019-09-03 15:43:46,066 [main] INFO PiloPay - Updated factor....
+2019-09-03 15:43:46,320 [main] INFO PiloPay - Updated color....
+2019-09-03 15:43:47,600 [main] INFO PiloPay - Added noteName....
+2019-09-03 15:43:49,883 [main] INFO PiloPay - new Note added
+2019-09-03 15:43:53,158 [main] INFO PiloPay - Validation Started...
+2019-09-04 08:51:46,631 [main] INFO PiloPay - URL is opened
+2019-09-04 08:51:46,938 [main] INFO PiloPay - USERNAME Entered
+2019-09-04 08:51:47,075 [main] INFO PiloPay - PASSWORD Entered
+2019-09-04 08:51:47,236 [main] INFO PiloPay - LoginTest Passed
+2019-09-04 08:52:03,222 [main] INFO PiloPay - USERNAME provided
+2019-09-04 08:52:05,417 [main] INFO PiloPay - Password provided
+2019-09-04 08:52:15,185 [main] INFO PiloPay - Login passed
+2019-09-04 08:52:18,845 [main] INFO PiloPay - USERNAME provided
+2019-09-04 08:52:20,947 [main] INFO PiloPay - Password provided
+2019-09-04 08:52:24,757 [main] INFO PiloPay - USERNAME provided
+2019-09-04 08:52:26,858 [main] INFO PiloPay - Password provided
+2019-09-04 08:52:30,737 [main] INFO PiloPay - USERNAME provided
+2019-09-04 08:52:32,904 [main] INFO PiloPay - Password provided
+2019-09-04 08:52:46,081 [main] INFO PiloPay - Login passed
+2019-09-04 08:52:49,610 [main] INFO PiloPay - USERNAME provided
+2019-09-04 08:52:51,694 [main] INFO PiloPay - Password provided
+2019-09-04 08:53:05,301 [main] INFO PiloPay - URL is opened
+2019-09-04 08:53:05,492 [main] INFO PiloPay - Username provided
+2019-09-04 08:53:05,606 [main] INFO PiloPay - Password provided
+2019-09-04 08:53:12,827 [main] INFO PiloPay - Unit provided
+2019-09-04 08:53:16,105 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 08:53:17,602 [main] INFO PiloPay - Icon selected
+2019-09-04 08:53:17,901 [main] INFO PiloPay - Color selected
+2019-09-04 08:53:19,460 [main] INFO PiloPay - Note added
+2019-09-04 08:53:23,590 [main] INFO PiloPay - Validation Started...
+2019-09-04 08:53:23,597 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 08:53:23,647 [main] INFO PiloPay - Started editing PC....
+2019-09-04 08:53:26,931 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 08:53:27,145 [main] INFO PiloPay - Updated PCName....
+2019-09-04 08:53:27,265 [main] INFO PiloPay - Updated SC....
+2019-09-04 08:53:27,332 [main] INFO PiloPay - unit
+2019-09-04 08:53:29,464 [main] INFO PiloPay - Updated unit....
+2019-09-04 08:53:29,551 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 08:53:31,632 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 08:53:31,719 [main] INFO PiloPay - Updated factor....
+2019-09-04 08:53:31,919 [main] INFO PiloPay - Updated color....
+2019-09-04 08:53:33,136 [main] INFO PiloPay - Added noteName....
+2019-09-04 08:53:35,384 [main] INFO PiloPay - new Note added
+2019-09-04 08:53:38,534 [main] INFO PiloPay - Validation Started...
+2019-09-04 08:56:11,222 [main] INFO PiloPay - URL is opened
+2019-09-04 08:56:11,536 [main] INFO PiloPay - Username provided
+2019-09-04 08:56:11,678 [main] INFO PiloPay - Password provided
+2019-09-04 08:57:23,413 [main] INFO PiloPay - URL is opened
+2019-09-04 08:57:23,689 [main] INFO PiloPay - Username provided
+2019-09-04 08:57:23,822 [main] INFO PiloPay - Password provided
+2019-09-04 08:57:35,996 [main] INFO PiloPay - Unit provided
+2019-09-04 08:57:39,357 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 08:57:40,972 [main] INFO PiloPay - Icon selected
+2019-09-04 08:57:41,402 [main] INFO PiloPay - Color selected
+2019-09-04 08:57:43,084 [main] INFO PiloPay - Note added
+2019-09-04 08:57:47,160 [main] INFO PiloPay - Validation Started...
+2019-09-04 08:57:47,182 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 08:57:47,267 [main] INFO PiloPay - Started editing PC....
+2019-09-04 08:57:50,522 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 08:57:50,836 [main] INFO PiloPay - Updated PCName....
+2019-09-04 08:57:50,978 [main] INFO PiloPay - Updated SC....
+2019-09-04 08:57:51,074 [main] INFO PiloPay - unit
+2019-09-04 08:57:53,200 [main] INFO PiloPay - Updated unit....
+2019-09-04 08:57:53,300 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 08:57:55,411 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 08:57:55,516 [main] INFO PiloPay - Updated factor....
+2019-09-04 08:57:55,749 [main] INFO PiloPay - Updated color....
+2019-09-04 08:57:57,024 [main] INFO PiloPay - Added noteName....
+2019-09-04 08:57:59,336 [main] INFO PiloPay - new Note added
+2019-09-04 08:58:02,526 [main] INFO PiloPay - Validation Started...
+2019-09-04 08:58:02,543 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-04 08:58:02,641 [main] INFO PiloPay - Started deleting PC....
+2019-09-04 08:58:05,922 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 08:58:06,078 [main] INFO PiloPay - Clicked delete PC..
+2019-09-04 08:58:09,080 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-04 08:58:12,201 [main] INFO PiloPay - Validation Started...
+2019-09-04 08:58:12,217 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-04 08:59:33,758 [main] INFO PiloPay - URL is opened
+2019-09-04 08:59:34,065 [main] INFO PiloPay - Username provided
+2019-09-04 08:59:34,202 [main] INFO PiloPay - Password provided
+2019-09-04 09:00:25,480 [main] INFO PiloPay - URL is opened
+2019-09-04 09:00:25,690 [main] INFO PiloPay - Username provided
+2019-09-04 09:00:25,777 [main] INFO PiloPay - Password provided
+2019-09-04 09:01:40,936 [main] INFO PiloPay - URL is opened
+2019-09-04 09:01:41,255 [main] INFO PiloPay - Username provided
+2019-09-04 09:01:41,358 [main] INFO PiloPay - Password provided
+2019-09-04 09:02:54,230 [main] INFO PiloPay - URL is opened
+2019-09-04 09:02:54,614 [main] INFO PiloPay - Username provided
+2019-09-04 09:02:54,854 [main] INFO PiloPay - Password provided
+2019-09-04 09:03:03,467 [main] INFO PiloPay - Unit provided
+2019-09-04 09:03:06,780 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:03:08,433 [main] INFO PiloPay - Icon selected
+2019-09-04 09:03:08,719 [main] INFO PiloPay - Color selected
+2019-09-04 09:03:10,272 [main] INFO PiloPay - Note added
+2019-09-04 09:03:14,391 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:03:14,407 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:03:14,481 [main] INFO PiloPay - Started editing PC....
+2019-09-04 09:03:17,755 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:03:18,004 [main] INFO PiloPay - Updated PCName....
+2019-09-04 09:03:18,137 [main] INFO PiloPay - Updated SC....
+2019-09-04 09:03:18,224 [main] INFO PiloPay - unit
+2019-09-04 09:03:20,288 [main] INFO PiloPay - Updated unit....
+2019-09-04 09:03:20,381 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:03:22,470 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:03:22,565 [main] INFO PiloPay - Updated factor....
+2019-09-04 09:03:22,781 [main] INFO PiloPay - Updated color....
+2019-09-04 09:03:24,006 [main] INFO PiloPay - Added noteName....
+2019-09-04 09:03:26,290 [main] INFO PiloPay - new Note added
+2019-09-04 09:03:29,523 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:07:27,586 [main] INFO PiloPay - URL is opened
+2019-09-04 09:07:27,841 [main] INFO PiloPay - USERNAME Entered
+2019-09-04 09:07:27,958 [main] INFO PiloPay - PASSWORD Entered
+2019-09-04 09:07:28,094 [main] INFO PiloPay - LoginTest Passed
+2019-09-04 09:07:45,309 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:07:47,476 [main] INFO PiloPay - Password provided
+2019-09-04 09:08:03,016 [main] INFO PiloPay - Login passed
+2019-09-04 09:08:06,483 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:08:08,602 [main] INFO PiloPay - Password provided
+2019-09-04 09:08:12,190 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:08:14,279 [main] INFO PiloPay - Password provided
+2019-09-04 09:08:17,773 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:08:19,905 [main] INFO PiloPay - Password provided
+2019-09-04 09:08:33,840 [main] INFO PiloPay - Login passed
+2019-09-04 09:08:37,390 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:08:39,489 [main] INFO PiloPay - Password provided
+2019-09-04 09:08:53,592 [main] INFO PiloPay - URL is opened
+2019-09-04 09:08:53,981 [main] INFO PiloPay - Username provided
+2019-09-04 09:08:54,158 [main] INFO PiloPay - Password provided
+2019-09-04 09:09:01,554 [main] INFO PiloPay - Unit provided
+2019-09-04 09:09:04,850 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:09:06,490 [main] INFO PiloPay - Icon selected
+2019-09-04 09:09:06,810 [main] INFO PiloPay - Color selected
+2019-09-04 09:09:08,393 [main] INFO PiloPay - Note added
+2019-09-04 09:09:12,526 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:09:12,538 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:09:22,416 [main] INFO PiloPay - URL is opened
+2019-09-04 09:09:22,604 [main] INFO PiloPay - Username provided
+2019-09-04 09:09:22,716 [main] INFO PiloPay - Password provided
+2019-09-04 09:09:30,283 [main] INFO PiloPay - Unit provided
+2019-09-04 09:09:33,555 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:09:35,171 [main] INFO PiloPay - Icon selected
+2019-09-04 09:09:35,468 [main] INFO PiloPay - Color selected
+2019-09-04 09:09:37,125 [main] INFO PiloPay - Note added
+2019-09-04 09:09:41,227 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:09:41,234 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:09:41,299 [main] INFO PiloPay - Started editing PC....
+2019-09-04 09:09:44,608 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:09:44,937 [main] INFO PiloPay - Updated PCName....
+2019-09-04 09:09:45,079 [main] INFO PiloPay - Updated SC....
+2019-09-04 09:09:45,167 [main] INFO PiloPay - unit
+2019-09-04 09:09:47,235 [main] INFO PiloPay - Updated unit....
+2019-09-04 09:09:47,316 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:09:49,414 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:09:49,565 [main] INFO PiloPay - Updated factor....
+2019-09-04 09:09:49,955 [main] INFO PiloPay - Updated color....
+2019-09-04 09:09:51,275 [main] INFO PiloPay - Added noteName....
+2019-09-04 09:09:53,562 [main] INFO PiloPay - new Note added
+2019-09-04 09:09:56,706 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:15:53,423 [main] INFO PiloPay - URL is opened
+2019-09-04 09:15:53,652 [main] INFO PiloPay - USERNAME Entered
+2019-09-04 09:15:53,772 [main] INFO PiloPay - PASSWORD Entered
+2019-09-04 09:15:55,931 [main] INFO PiloPay - LoginTest Passed
+2019-09-04 09:16:08,768 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:16:10,864 [main] INFO PiloPay - Password provided
+2019-09-04 09:16:23,006 [main] INFO PiloPay - Login passed
+2019-09-04 09:16:26,479 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:16:28,558 [main] INFO PiloPay - Password provided
+2019-09-04 09:16:31,947 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:16:34,047 [main] INFO PiloPay - Password provided
+2019-09-04 09:16:37,440 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:16:39,597 [main] INFO PiloPay - Password provided
+2019-09-04 09:16:53,021 [main] INFO PiloPay - Login passed
+2019-09-04 09:16:56,439 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:16:58,565 [main] INFO PiloPay - Password provided
+2019-09-04 09:17:12,811 [main] INFO PiloPay - URL is opened
+2019-09-04 09:17:12,993 [main] INFO PiloPay - Username provided
+2019-09-04 09:17:13,119 [main] INFO PiloPay - Password provided
+2019-09-04 09:17:20,793 [main] INFO PiloPay - Unit provided
+2019-09-04 09:17:24,058 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:17:25,796 [main] INFO PiloPay - Icon selected
+2019-09-04 09:17:26,086 [main] INFO PiloPay - Color selected
+2019-09-04 09:17:27,736 [main] INFO PiloPay - Note added
+2019-09-04 09:17:31,862 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:17:31,875 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:17:42,739 [main] INFO PiloPay - URL is opened
+2019-09-04 09:17:42,905 [main] INFO PiloPay - Username provided
+2019-09-04 09:17:43,005 [main] INFO PiloPay - Password provided
+2019-09-04 09:17:54,491 [main] INFO PiloPay - Unit provided
+2019-09-04 09:17:57,808 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:17:59,347 [main] INFO PiloPay - Icon selected
+2019-09-04 09:17:59,631 [main] INFO PiloPay - Color selected
+2019-09-04 09:18:01,150 [main] INFO PiloPay - Note added
+2019-09-04 09:18:05,267 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:18:05,288 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:18:05,376 [main] INFO PiloPay - Started editing PC....
+2019-09-04 09:18:08,555 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:18:08,831 [main] INFO PiloPay - Updated PCName....
+2019-09-04 09:18:09,015 [main] INFO PiloPay - Updated SC....
+2019-09-04 09:18:09,107 [main] INFO PiloPay - unit
+2019-09-04 09:18:11,208 [main] INFO PiloPay - Updated unit....
+2019-09-04 09:18:11,288 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:18:13,373 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:18:13,464 [main] INFO PiloPay - Updated factor....
+2019-09-04 09:18:13,725 [main] INFO PiloPay - Updated color....
+2019-09-04 09:18:14,984 [main] INFO PiloPay - Added noteName....
+2019-09-04 09:18:17,254 [main] INFO PiloPay - new Note added
+2019-09-04 09:23:05,557 [main] INFO PiloPay - URL is opened
+2019-09-04 09:23:05,861 [main] INFO PiloPay - Username provided
+2019-09-04 09:23:06,012 [main] INFO PiloPay - Password provided
+2019-09-04 09:23:14,121 [main] INFO PiloPay - Unit provided
+2019-09-04 09:23:17,420 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:23:19,044 [main] INFO PiloPay - Icon selected
+2019-09-04 09:23:19,395 [main] INFO PiloPay - Color selected
+2019-09-04 09:23:21,126 [main] INFO PiloPay - Note added
+2019-09-04 09:23:25,225 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:23:25,242 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:23:25,311 [main] INFO PiloPay - Started editing PC....
+2019-09-04 09:23:28,567 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:23:28,851 [main] INFO PiloPay - Updated PCName....
+2019-09-04 09:23:29,038 [main] INFO PiloPay - Updated SC....
+2019-09-04 09:23:29,145 [main] INFO PiloPay - unit
+2019-09-04 09:23:31,262 [main] INFO PiloPay - Updated unit....
+2019-09-04 09:23:31,359 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:23:33,434 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:23:33,536 [main] INFO PiloPay - Updated factor....
+2019-09-04 09:23:33,773 [main] INFO PiloPay - Updated color....
+2019-09-04 09:23:35,040 [main] INFO PiloPay - Added noteName....
+2019-09-04 09:23:37,324 [main] INFO PiloPay - new Note added
+2019-09-04 09:23:43,490 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:23:46,499 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-04 09:23:46,565 [main] INFO PiloPay - Started deleting PC....
+2019-09-04 09:23:49,829 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:23:49,988 [main] INFO PiloPay - Clicked delete PC..
+2019-09-04 09:23:52,989 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-04 09:23:56,118 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:23:56,128 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-04 09:25:36,183 [main] INFO PiloPay - URL is opened
+2019-09-04 09:25:36,450 [main] INFO PiloPay - USERNAME Entered
+2019-09-04 09:25:36,557 [main] INFO PiloPay - PASSWORD Entered
+2019-09-04 09:25:38,698 [main] INFO PiloPay - LoginTest Passed
+2019-09-04 09:25:50,197 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:25:52,298 [main] INFO PiloPay - Password provided
+2019-09-04 09:25:55,885 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:25:58,000 [main] INFO PiloPay - Password provided
+2019-09-04 09:26:01,585 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:26:03,680 [main] INFO PiloPay - Password provided
+2019-09-04 09:26:07,160 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:26:09,274 [main] INFO PiloPay - Password provided
+2019-09-04 09:26:23,305 [main] INFO PiloPay - Login passed
+2019-09-04 09:26:26,885 [main] INFO PiloPay - USERNAME provided
+2019-09-04 09:26:28,992 [main] INFO PiloPay - Password provided
+2019-09-04 09:26:43,316 [main] INFO PiloPay - URL is opened
+2019-09-04 09:26:43,547 [main] INFO PiloPay - Username provided
+2019-09-04 09:26:43,657 [main] INFO PiloPay - Password provided
+2019-09-04 09:26:50,484 [main] INFO PiloPay - Unit provided
+2019-09-04 09:26:53,807 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:26:55,369 [main] INFO PiloPay - Icon selected
+2019-09-04 09:26:55,645 [main] INFO PiloPay - Color selected
+2019-09-04 09:26:57,240 [main] INFO PiloPay - Note added
+2019-09-04 09:27:01,335 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:27:01,344 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:27:12,530 [main] INFO PiloPay - URL is opened
+2019-09-04 09:27:12,805 [main] INFO PiloPay - Username provided
+2019-09-04 09:27:12,920 [main] INFO PiloPay - Password provided
+2019-09-04 09:27:20,982 [main] INFO PiloPay - Unit provided
+2019-09-04 09:27:24,226 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 09:27:25,748 [main] INFO PiloPay - Icon selected
+2019-09-04 09:27:26,033 [main] INFO PiloPay - Color selected
+2019-09-04 09:27:27,635 [main] INFO PiloPay - Note added
+2019-09-04 09:27:31,738 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:27:31,747 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 09:27:31,811 [main] INFO PiloPay - Started editing PC....
+2019-09-04 09:27:35,077 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:27:35,296 [main] INFO PiloPay - Updated PCName....
+2019-09-04 09:27:35,421 [main] INFO PiloPay - Updated SC....
+2019-09-04 09:27:35,504 [main] INFO PiloPay - unit
+2019-09-04 09:27:37,591 [main] INFO PiloPay - Updated unit....
+2019-09-04 09:27:37,669 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:27:39,732 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 09:27:39,838 [main] INFO PiloPay - Updated factor....
+2019-09-04 09:27:40,068 [main] INFO PiloPay - Updated color....
+2019-09-04 09:27:41,296 [main] INFO PiloPay - Added noteName....
+2019-09-04 09:27:43,532 [main] INFO PiloPay - new Note added
+2019-09-04 09:27:49,714 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:27:52,754 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-04 09:27:52,810 [main] INFO PiloPay - Started deleting PC....
+2019-09-04 09:27:56,078 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 09:27:56,237 [main] INFO PiloPay - Clicked delete PC..
+2019-09-04 09:27:59,239 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-04 09:28:02,329 [main] INFO PiloPay - Validation Started...
+2019-09-04 09:28:02,340 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-04 14:01:43,365 [main] INFO PiloPay - URL is opened
+2019-09-04 14:01:43,600 [main] INFO PiloPay - USERNAME Entered
+2019-09-04 14:01:43,712 [main] INFO PiloPay - PASSWORD Entered
+2019-09-04 14:02:01,242 [main] INFO PiloPay - URL is opened
+2019-09-04 14:02:01,463 [main] INFO PiloPay - Username provided
+2019-09-04 14:02:01,581 [main] INFO PiloPay - Password provided
+2019-09-04 14:02:08,701 [main] INFO PiloPay - Unit provided
+2019-09-04 14:02:12,049 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 14:02:13,579 [main] INFO PiloPay - Icon selected
+2019-09-04 14:02:13,898 [main] INFO PiloPay - Color selected
+2019-09-04 14:02:15,469 [main] INFO PiloPay - Note added
+2019-09-04 14:02:19,553 [main] INFO PiloPay - Validation Started...
+2019-09-04 14:02:19,562 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 14:02:31,170 [main] INFO PiloPay - URL is opened
+2019-09-04 14:02:31,503 [main] INFO PiloPay - Username provided
+2019-09-04 14:02:31,700 [main] INFO PiloPay - Password provided
+2019-09-04 14:02:41,265 [main] INFO PiloPay - Unit provided
+2019-09-04 14:02:44,656 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 14:02:46,364 [main] INFO PiloPay - Icon selected
+2019-09-04 14:02:46,659 [main] INFO PiloPay - Color selected
+2019-09-04 14:02:48,214 [main] INFO PiloPay - Note added
+2019-09-04 14:02:52,353 [main] INFO PiloPay - Validation Started...
+2019-09-04 14:02:52,363 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 14:02:52,418 [main] INFO PiloPay - Started editing PC....
+2019-09-04 14:02:55,725 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 14:02:56,012 [main] INFO PiloPay - Updated PCName....
+2019-09-04 14:02:56,158 [main] INFO PiloPay - Updated SC....
+2019-09-04 14:02:56,256 [main] INFO PiloPay - unit
+2019-09-04 14:02:58,329 [main] INFO PiloPay - Updated unit....
+2019-09-04 14:02:58,406 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 14:03:00,487 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 14:03:00,590 [main] INFO PiloPay - Updated factor....
+2019-09-04 14:03:00,811 [main] INFO PiloPay - Updated color....
+2019-09-04 14:03:02,079 [main] INFO PiloPay - Added noteName....
+2019-09-04 14:03:04,365 [main] INFO PiloPay - new Note added
+2019-09-04 14:03:10,555 [main] INFO PiloPay - Validation Started...
+2019-09-04 14:03:13,577 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-04 14:03:13,687 [main] INFO PiloPay - Started deleting PC....
+2019-09-04 14:03:16,960 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 14:03:17,096 [main] INFO PiloPay - Clicked delete PC..
+2019-09-04 14:03:20,096 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-04 14:03:23,169 [main] INFO PiloPay - Validation Started...
+2019-09-04 14:03:23,175 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-04 15:04:19,065 [main] INFO PiloPay - URL is opened
+2019-09-04 15:04:19,254 [main] INFO PiloPay - USERNAME Entered
+2019-09-04 15:04:19,354 [main] INFO PiloPay - PASSWORD Entered
+2019-09-04 15:04:34,796 [main] INFO PiloPay - URL is opened
+2019-09-04 15:04:35,018 [main] INFO PiloPay - Username provided
+2019-09-04 15:04:35,153 [main] INFO PiloPay - Password provided
+2019-09-04 15:04:42,115 [main] INFO PiloPay - Unit provided
+2019-09-04 15:04:45,389 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 15:04:46,913 [main] INFO PiloPay - Icon selected
+2019-09-04 15:04:47,235 [main] INFO PiloPay - Color selected
+2019-09-04 15:04:48,905 [main] INFO PiloPay - Note added
+2019-09-04 15:04:52,997 [main] INFO PiloPay - Validation Started...
+2019-09-04 15:04:53,027 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 15:05:04,235 [main] INFO PiloPay - URL is opened
+2019-09-04 15:05:04,434 [main] INFO PiloPay - Username provided
+2019-09-04 15:05:04,538 [main] INFO PiloPay - Password provided
+2019-09-04 15:05:12,205 [main] INFO PiloPay - Unit provided
+2019-09-04 15:05:15,478 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-04 15:05:16,988 [main] INFO PiloPay - Icon selected
+2019-09-04 15:05:17,272 [main] INFO PiloPay - Color selected
+2019-09-04 15:05:18,924 [main] INFO PiloPay - Note added
+2019-09-04 15:05:23,025 [main] INFO PiloPay - Validation Started...
+2019-09-04 15:05:23,031 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-04 15:05:23,090 [main] INFO PiloPay - Started editing PC....
+2019-09-04 15:05:26,428 [main] INFO PiloPay - Editing Pay Category..
+2019-09-04 15:05:26,695 [main] INFO PiloPay - Updated PCName....
+2019-09-04 15:05:26,814 [main] INFO PiloPay - Updated SC....
+2019-09-04 15:05:26,891 [main] INFO PiloPay - unit
+2019-09-04 15:05:28,985 [main] INFO PiloPay - Updated unit....
+2019-09-04 15:05:29,062 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 15:05:31,137 [main] INFO PiloPay - Updated WDPcode....
+2019-09-04 15:05:31,227 [main] INFO PiloPay - Updated factor....
+2019-09-04 15:05:31,444 [main] INFO PiloPay - Updated color....
+2019-09-04 15:05:32,695 [main] INFO PiloPay - Added noteName....
+2019-09-04 15:05:34,980 [main] INFO PiloPay - new Note added
+2019-09-05 10:06:21,955 [main] INFO PiloPay - URL is opened
+2019-09-05 10:06:41,307 [main] INFO PiloPay - URL is opened
+2019-09-05 10:06:59,246 [main] INFO PiloPay - URL is opened
+2019-09-05 13:18:51,052 [main] INFO PiloPay - URL is opened
+2019-09-05 13:18:51,425 [main] INFO PiloPay - USERNAME Entered
+2019-09-05 13:18:51,606 [main] INFO PiloPay - PASSWORD Entered
+2019-09-05 13:18:53,868 [main] INFO PiloPay - LoginTest Passed
+2019-09-05 13:19:07,742 [main] INFO PiloPay - URL is opened
+2019-09-05 13:19:08,055 [main] INFO PiloPay - Username provided
+2019-09-05 13:19:08,186 [main] INFO PiloPay - Password provided
+2019-09-05 13:19:15,677 [main] INFO PiloPay - Unit provided
+2019-09-05 13:19:19,202 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-05 13:19:21,074 [main] INFO PiloPay - Icon selected
+2019-09-05 13:19:21,515 [main] INFO PiloPay - Color selected
+2019-09-05 13:19:23,302 [main] INFO PiloPay - Note added
+2019-09-05 13:19:27,556 [main] INFO PiloPay - Validation Started...
+2019-09-05 13:19:27,592 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-05 13:19:40,224 [main] INFO PiloPay - URL is opened
+2019-09-05 13:19:40,554 [main] INFO PiloPay - Username provided
+2019-09-05 13:19:40,705 [main] INFO PiloPay - Password provided
+2019-09-05 13:19:48,620 [main] INFO PiloPay - Unit provided
+2019-09-05 13:19:52,134 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-05 13:19:53,868 [main] INFO PiloPay - Icon selected
+2019-09-05 13:19:54,318 [main] INFO PiloPay - Color selected
+2019-09-05 13:19:56,017 [main] INFO PiloPay - Note added
+2019-09-05 13:20:00,194 [main] INFO PiloPay - Validation Started...
+2019-09-05 13:20:00,207 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-05 13:20:00,296 [main] INFO PiloPay - Started editing PC....
+2019-09-05 13:20:03,545 [main] INFO PiloPay - Editing Pay Category..
+2019-09-05 13:20:03,966 [main] INFO PiloPay - Updated PCName....
+2019-09-05 13:20:04,132 [main] INFO PiloPay - Updated SC....
+2019-09-05 13:20:04,302 [main] INFO PiloPay - unit
+2019-09-05 13:20:06,484 [main] INFO PiloPay - Updated unit....
+2019-09-05 13:20:06,633 [main] INFO PiloPay - Updated WDPcode....
+2019-09-05 13:20:08,794 [main] INFO PiloPay - Updated WDPcode....
+2019-09-05 13:20:08,936 [main] INFO PiloPay - Updated factor....
+2019-09-05 13:20:09,231 [main] INFO PiloPay - Updated color....
+2019-09-05 13:20:10,575 [main] INFO PiloPay - Added noteName....
+2019-09-05 13:20:12,904 [main] INFO PiloPay - new Note added
+2019-09-05 13:20:19,360 [main] INFO PiloPay - Validation Started...
+2019-09-05 13:20:22,384 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-05 13:20:22,510 [main] INFO PiloPay - Started deleting PC....
+2019-09-05 13:20:25,961 [main] INFO PiloPay - Editing Pay Category..
+2019-09-05 13:20:26,125 [main] INFO PiloPay - Clicked delete PC..
+2019-09-05 13:20:29,126 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-05 13:20:32,290 [main] INFO PiloPay - Validation Started...
+2019-09-05 13:20:32,314 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-05 15:04:23,324 [main] INFO PiloPay - URL is opened
+2019-09-05 15:04:23,652 [main] INFO PiloPay - USERNAME Entered
+2019-09-05 15:04:23,757 [main] INFO PiloPay - PASSWORD Entered
+2019-09-05 15:04:41,264 [main] INFO PiloPay - URL is opened
+2019-09-05 15:04:41,537 [main] INFO PiloPay - Username provided
+2019-09-05 15:04:41,664 [main] INFO PiloPay - Password provided
+2019-09-05 15:04:49,270 [main] INFO PiloPay - Unit provided
+2019-09-05 15:04:52,590 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-05 15:04:54,221 [main] INFO PiloPay - Icon selected
+2019-09-05 15:04:54,607 [main] INFO PiloPay - Color selected
+2019-09-05 15:04:56,222 [main] INFO PiloPay - Note added
+2019-09-05 15:05:00,308 [main] INFO PiloPay - Validation Started...
+2019-09-05 15:05:00,321 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-05 15:05:16,018 [main] INFO PiloPay - URL is opened
+2019-09-05 15:05:16,269 [main] INFO PiloPay - Username provided
+2019-09-05 15:05:16,386 [main] INFO PiloPay - Password provided
+2019-09-05 15:05:25,000 [main] INFO PiloPay - Unit provided
+2019-09-05 15:05:28,268 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-05 15:05:29,857 [main] INFO PiloPay - Icon selected
+2019-09-05 15:05:30,165 [main] INFO PiloPay - Color selected
+2019-09-05 15:05:31,771 [main] INFO PiloPay - Note added
+2019-09-05 15:05:35,856 [main] INFO PiloPay - Validation Started...
+2019-09-05 15:05:35,863 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-05 15:05:35,927 [main] INFO PiloPay - Started editing PC....
+2019-09-05 15:05:39,232 [main] INFO PiloPay - Editing Pay Category..
+2019-09-05 15:05:39,659 [main] INFO PiloPay - Updated PCName....
+2019-09-05 15:05:39,847 [main] INFO PiloPay - Updated SC....
+2019-09-05 15:05:40,017 [main] INFO PiloPay - unit
+2019-09-05 15:05:42,094 [main] INFO PiloPay - Updated unit....
+2019-09-05 15:05:42,218 [main] INFO PiloPay - Updated WDPcode....
+2019-09-05 15:05:44,291 [main] INFO PiloPay - Updated WDPcode....
+2019-09-05 15:05:44,418 [main] INFO PiloPay - Updated factor....
+2019-09-05 15:05:44,659 [main] INFO PiloPay - Updated color....
+2019-09-05 15:05:45,886 [main] INFO PiloPay - Added noteName....
+2019-09-05 15:05:48,142 [main] INFO PiloPay - new Note added
+2019-09-05 15:05:54,306 [main] INFO PiloPay - Validation Started...
+2019-09-05 15:05:57,323 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-05 15:05:57,482 [main] INFO PiloPay - Started deleting PC....
+2019-09-05 15:06:00,749 [main] INFO PiloPay - Editing Pay Category..
+2019-09-05 15:06:01,001 [main] INFO PiloPay - Clicked delete PC..
+2019-09-05 15:06:04,001 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-05 15:06:07,093 [main] INFO PiloPay - Validation Started...
+2019-09-05 15:06:07,098 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-06 09:11:20,198 [main] INFO PiloPay - URL is opened
+2019-09-06 09:11:20,527 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 09:11:20,653 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 09:11:41,985 [main] INFO PiloPay - URL is opened
+2019-09-06 09:11:42,260 [main] INFO PiloPay - Username provided
+2019-09-06 09:11:42,399 [main] INFO PiloPay - Password provided
+2019-09-06 09:11:52,021 [main] INFO PiloPay - Unit provided
+2019-09-06 09:11:55,901 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 09:11:57,942 [main] INFO PiloPay - Icon selected
+2019-09-06 09:11:58,397 [main] INFO PiloPay - Color selected
+2019-09-06 09:12:00,375 [main] INFO PiloPay - Note added
+2019-09-06 09:12:04,499 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:12:04,513 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 09:12:22,757 [main] INFO PiloPay - URL is opened
+2019-09-06 09:12:22,997 [main] INFO PiloPay - Username provided
+2019-09-06 09:12:23,161 [main] INFO PiloPay - Password provided
+2019-09-06 09:12:37,703 [main] INFO PiloPay - URL is opened
+2019-09-06 09:12:38,225 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 09:12:38,420 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 09:12:38,728 [main] INFO PiloPay - Unit provided
+2019-09-06 09:12:42,178 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 09:12:44,705 [main] INFO PiloPay - Icon selected
+2019-09-06 09:12:45,857 [main] INFO PiloPay - Color selected
+2019-09-06 09:12:47,881 [main] INFO PiloPay - Note added
+2019-09-06 09:12:52,057 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:12:52,469 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 09:12:52,634 [main] INFO PiloPay - Started editing PC....
+2019-09-06 09:12:58,227 [main] INFO PiloPay - Editing Pay Category..
+2019-09-06 09:12:59,330 [main] INFO PiloPay - Updated PCName....
+2019-09-06 09:12:59,911 [main] INFO PiloPay - Updated SC....
+2019-09-06 09:13:00,229 [main] INFO PiloPay - unit
+2019-09-06 09:13:02,417 [main] INFO PiloPay - Updated unit....
+2019-09-06 09:13:02,681 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 09:13:03,960 [main] INFO PiloPay - URL is opened
+2019-09-06 09:13:04,275 [main] INFO PiloPay - Username provided
+2019-09-06 09:13:04,473 [main] INFO PiloPay - Password provided
+2019-09-06 09:13:04,764 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 09:13:04,899 [main] INFO PiloPay - Updated factor....
+2019-09-06 09:13:05,333 [main] INFO PiloPay - Updated color....
+2019-09-06 09:13:06,683 [main] INFO PiloPay - Added noteName....
+2019-09-06 09:13:09,145 [main] INFO PiloPay - new Note added
+2019-09-06 09:13:13,765 [main] INFO PiloPay - Unit provided
+2019-09-06 09:13:15,587 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:13:17,167 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 09:13:18,582 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-06 09:13:18,704 [main] INFO PiloPay - Started deleting PC....
+2019-09-06 09:13:18,974 [main] INFO PiloPay - Icon selected
+2019-09-06 09:13:19,749 [main] INFO PiloPay - Color selected
+2019-09-06 09:13:22,697 [main] INFO PiloPay - Note added
+2019-09-06 09:13:26,831 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:13:26,850 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 09:13:46,430 [main] INFO PiloPay - URL is opened
+2019-09-06 09:13:46,920 [main] INFO PiloPay - Username provided
+2019-09-06 09:13:47,076 [main] INFO PiloPay - Password provided
+2019-09-06 09:14:01,596 [main] INFO PiloPay - Unit provided
+2019-09-06 09:14:05,199 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 09:14:07,563 [main] INFO PiloPay - Icon selected
+2019-09-06 09:14:08,223 [main] INFO PiloPay - Color selected
+2019-09-06 09:14:10,001 [main] INFO PiloPay - Note added
+2019-09-06 09:14:14,099 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:14:14,112 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 09:14:14,237 [main] INFO PiloPay - Started editing PC....
+2019-09-06 09:14:17,683 [main] INFO PiloPay - Editing Pay Category..
+2019-09-06 09:14:18,085 [main] INFO PiloPay - Updated PCName....
+2019-09-06 09:14:18,263 [main] INFO PiloPay - Updated SC....
+2019-09-06 09:14:18,380 [main] INFO PiloPay - unit
+2019-09-06 09:14:20,466 [main] INFO PiloPay - Updated unit....
+2019-09-06 09:14:20,587 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 09:14:22,737 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 09:14:22,922 [main] INFO PiloPay - Updated factor....
+2019-09-06 09:14:23,312 [main] INFO PiloPay - Updated color....
+2019-09-06 09:14:24,714 [main] INFO PiloPay - Added noteName....
+2019-09-06 09:14:27,139 [main] INFO PiloPay - new Note added
+2019-09-06 09:14:33,414 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:14:36,419 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-06 09:14:36,622 [main] INFO PiloPay - Started deleting PC....
+2019-09-06 09:14:40,172 [main] INFO PiloPay - Editing Pay Category..
+2019-09-06 09:14:40,405 [main] INFO PiloPay - Clicked delete PC..
+2019-09-06 09:14:43,394 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-06 09:14:46,606 [main] INFO PiloPay - Validation Started...
+2019-09-06 09:14:46,622 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-06 13:35:31,615 [main] INFO PiloPay - URL is opened
+2019-09-06 13:35:32,051 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 13:35:32,201 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 13:35:55,057 [main] INFO PiloPay - URL is opened
+2019-09-06 13:35:55,908 [main] INFO PiloPay - Username provided
+2019-09-06 13:35:56,214 [main] INFO PiloPay - Password provided
+2019-09-06 13:36:07,586 [main] INFO PiloPay - Unit provided
+2019-09-06 13:36:10,977 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 13:36:13,086 [main] INFO PiloPay - Icon selected
+2019-09-06 13:36:13,546 [main] INFO PiloPay - Color selected
+2019-09-06 13:36:15,254 [main] INFO PiloPay - Note added
+2019-09-06 13:36:19,353 [main] INFO PiloPay - Validation Started...
+2019-09-06 13:36:19,374 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 13:36:35,596 [main] INFO PiloPay - URL is opened
+2019-09-06 13:36:35,964 [main] INFO PiloPay - Username provided
+2019-09-06 13:36:36,135 [main] INFO PiloPay - Password provided
+2019-09-06 13:36:51,865 [main] INFO PiloPay - Unit provided
+2019-09-06 13:36:55,382 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 13:36:58,080 [main] INFO PiloPay - Icon selected
+2019-09-06 13:36:59,527 [main] INFO PiloPay - Color selected
+2019-09-06 13:37:02,154 [main] INFO PiloPay - Note added
+2019-09-06 13:37:06,734 [main] INFO PiloPay - Validation Started...
+2019-09-06 13:37:06,755 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 13:37:06,910 [main] INFO PiloPay - Started editing PC....
+2019-09-06 13:37:10,548 [main] INFO PiloPay - Editing Pay Category..
+2019-09-06 13:37:10,973 [main] INFO PiloPay - Updated PCName....
+2019-09-06 13:37:11,530 [main] INFO PiloPay - Updated SC....
+2019-09-06 13:37:12,098 [main] INFO PiloPay - unit
+2019-09-06 13:37:14,382 [main] INFO PiloPay - Updated unit....
+2019-09-06 13:37:14,751 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 13:37:17,267 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 13:37:17,579 [main] INFO PiloPay - Updated factor....
+2019-09-06 13:37:18,392 [main] INFO PiloPay - Updated color....
+2019-09-06 13:37:21,012 [main] INFO PiloPay - Added noteName....
+2019-09-06 13:37:25,328 [main] INFO PiloPay - new Note added
+2019-09-06 13:37:31,526 [main] INFO PiloPay - Validation Started...
+2019-09-06 13:37:34,532 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-06 13:37:34,607 [main] INFO PiloPay - Started deleting PC....
+2019-09-06 13:37:37,890 [main] INFO PiloPay - Editing Pay Category..
+2019-09-06 13:37:38,116 [main] INFO PiloPay - Clicked delete PC..
+2019-09-06 13:37:41,117 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-06 13:37:44,196 [main] INFO PiloPay - Validation Started...
+2019-09-06 13:37:44,204 [main] INFO PiloPay - DeletePayCategoryTest Passed
+2019-09-06 14:21:25,643 [main] INFO PiloPay - URL is opened
+2019-09-06 14:21:26,114 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 14:21:26,329 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 14:21:42,618 [main] INFO PiloPay - URL is opened
+2019-09-06 14:21:42,989 [main] INFO PiloPay - Username provided
+2019-09-06 14:21:43,147 [main] INFO PiloPay - Password provided
+2019-09-06 14:22:31,304 [main] INFO PiloPay - URL is opened
+2019-09-06 14:22:31,771 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 14:22:31,988 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 14:22:49,337 [main] INFO PiloPay - URL is opened
+2019-09-06 14:22:49,858 [main] INFO PiloPay - Username provided
+2019-09-06 14:22:50,023 [main] INFO PiloPay - Password provided
+2019-09-06 14:25:24,448 [main] INFO PiloPay - URL is opened
+2019-09-06 14:25:24,954 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 14:25:25,210 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 14:25:27,403 [main] INFO PiloPay - LoginTest Passed
+2019-09-06 14:25:41,792 [main] INFO PiloPay - URL is opened
+2019-09-06 14:25:42,146 [main] INFO PiloPay - Username provided
+2019-09-06 14:25:42,322 [main] INFO PiloPay - Password provided
+2019-09-06 14:32:04,815 [main] INFO PiloPay - URL is opened
+2019-09-06 14:32:05,088 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 14:32:05,206 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 14:32:07,384 [main] INFO PiloPay - LoginTest Passed
+2019-09-06 14:32:25,684 [main] INFO PiloPay - URL is opened
+2019-09-06 14:32:26,009 [main] INFO PiloPay - Username provided
+2019-09-06 14:32:26,160 [main] INFO PiloPay - Password provided
+2019-09-06 14:34:36,054 [main] INFO PiloPay - URL is opened
+2019-09-06 14:34:36,366 [main] INFO PiloPay - USERNAME Entered
+2019-09-06 14:34:36,503 [main] INFO PiloPay - PASSWORD Entered
+2019-09-06 14:34:38,730 [main] INFO PiloPay - LoginTest Passed
+2019-09-06 14:34:50,699 [main] INFO PiloPay - URL is opened
+2019-09-06 14:34:50,892 [main] INFO PiloPay - Username provided
+2019-09-06 14:34:51,008 [main] INFO PiloPay - Password provided
+2019-09-06 14:36:10,087 [main] INFO PiloPay - URL is opened
+2019-09-06 14:36:10,429 [main] INFO PiloPay - Username provided
+2019-09-06 14:36:10,582 [main] INFO PiloPay - Password provided
+2019-09-06 14:38:03,068 [main] INFO PiloPay - URL is opened
+2019-09-06 14:38:03,398 [main] INFO PiloPay - Username provided
+2019-09-06 14:38:03,534 [main] INFO PiloPay - Password provided
+2019-09-06 14:39:46,714 [main] INFO PiloPay - URL is opened
+2019-09-06 14:39:46,989 [main] INFO PiloPay - Username provided
+2019-09-06 14:39:47,105 [main] INFO PiloPay - Password provided
+2019-09-06 15:04:14,072 [main] INFO PiloPay - URL is opened
+2019-09-06 15:04:14,329 [main] INFO PiloPay - Username provided
+2019-09-06 15:04:14,430 [main] INFO PiloPay - Password provided
+2019-09-06 15:30:06,172 [main] INFO PiloPay - URL is opened
+2019-09-06 15:30:07,506 [main] INFO PiloPay - Username provided
+2019-09-06 15:30:08,110 [main] INFO PiloPay - Password provided
+2019-09-06 15:30:23,148 [main] INFO PiloPay - Unit provided
+2019-09-06 15:30:26,854 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-06 15:30:29,642 [main] INFO PiloPay - Icon selected
+2019-09-06 15:30:31,118 [main] INFO PiloPay - Color selected
+2019-09-06 15:30:34,356 [main] INFO PiloPay - Note added
+2019-09-06 15:30:38,587 [main] INFO PiloPay - Validation Started...
+2019-09-06 15:30:38,612 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-06 15:30:38,834 [main] INFO PiloPay - Started editing PC....
+2019-09-06 15:30:42,785 [main] INFO PiloPay - Editing Pay Category..
+2019-09-06 15:30:44,022 [main] INFO PiloPay - Updated PCName....
+2019-09-06 15:30:44,509 [main] INFO PiloPay - Updated SC....
+2019-09-06 15:30:44,745 [main] INFO PiloPay - unit
+2019-09-06 15:30:46,891 [main] INFO PiloPay - Updated unit....
+2019-09-06 15:30:47,100 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 15:30:49,273 [main] INFO PiloPay - Updated WDPcode....
+2019-09-06 15:30:49,855 [main] INFO PiloPay - Updated factor....
+2019-09-06 15:30:50,475 [main] INFO PiloPay - Updated color....
+2019-09-06 15:30:52,210 [main] INFO PiloPay - Added noteName....
+2019-09-06 15:30:55,097 [main] INFO PiloPay - new Note added
+2019-09-06 15:31:01,813 [main] INFO PiloPay - Validation Started...
+2019-09-06 15:31:04,855 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-06 15:31:05,098 [main] INFO PiloPay - Started deleting PC....
+2019-09-09 15:03:27,963 [main] INFO PiloPay - URL is opened
+2019-09-10 08:20:28,900 [main] INFO PiloPay - URL is opened
+2019-09-10 15:03:27,155 [main] INFO PiloPay - URL is opened
+2019-09-10 15:03:27,389 [main] INFO PiloPay - Username provided
+2019-09-10 15:03:27,717 [main] INFO PiloPay - Password provided
+2019-09-10 15:03:36,929 [main] INFO PiloPay - Unit provided
+2019-09-10 15:03:40,170 [main] INFO PiloPay - WorkdayPaycode selected
+2019-09-10 15:03:41,709 [main] INFO PiloPay - Icon selected
+2019-09-10 15:03:42,003 [main] INFO PiloPay - Color selected
+2019-09-10 15:03:43,577 [main] INFO PiloPay - Note added
+2019-09-10 15:03:47,674 [main] INFO PiloPay - Validation Started...
+2019-09-10 15:03:47,684 [main] INFO PiloPay - CreatePayCategoryTest Passed
+2019-09-10 15:03:47,741 [main] INFO PiloPay - Started editing PC....
+2019-09-10 15:03:50,982 [main] INFO PiloPay - Editing Pay Category..
+2019-09-10 15:03:51,254 [main] INFO PiloPay - Updated PCName....
+2019-09-10 15:03:51,384 [main] INFO PiloPay - Updated SC....
+2019-09-10 15:03:51,506 [main] INFO PiloPay - unit
+2019-09-10 15:03:53,578 [main] INFO PiloPay - Updated unit....
+2019-09-10 15:03:53,656 [main] INFO PiloPay - Updated WDPcode....
+2019-09-10 15:03:55,730 [main] INFO PiloPay - Updated WDPcode....
+2019-09-10 15:03:55,836 [main] INFO PiloPay - Updated factor....
+2019-09-10 15:03:56,058 [main] INFO PiloPay - Updated color....
+2019-09-10 15:03:57,315 [main] INFO PiloPay - Added noteName....
+2019-09-10 15:03:59,641 [main] INFO PiloPay - new Note added
+2019-09-10 15:04:05,792 [main] INFO PiloPay - Validation Started...
+2019-09-10 15:04:08,799 [main] INFO PiloPay - UpdatePayCategoryTest Passed
+2019-09-10 15:04:08,930 [main] INFO PiloPay - Started deleting PC....
+2019-09-10 15:04:12,174 [main] INFO PiloPay - Editing Pay Category..
+2019-09-10 15:04:12,418 [main] INFO PiloPay - Clicked delete PC..
+2019-09-10 15:04:15,419 [main] INFO PiloPay - Clicked accept Delete PC..
+2019-09-10 15:04:18,490 [main] INFO PiloPay - Validation Started...
+2019-09-10 15:04:18,502 [main] INFO PiloPay - DeletePayCategoryTest Passed

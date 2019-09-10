@@ -1,0 +1,12 @@
+com\PilotPay\testCases\BaseClass.class
+com\PilotPay\pageObjects\PayCategoryPage.class
+com\PilotPay\testCases\TC_DeletePayCategoryTest_005.class
+com\PilotPay\testCases\TC_LoginTest_001.class
+com\PilotPay\utilities\XLUtils.class
+com\PilotPay\pageObjects\LoginPage.class
+com\PilotPay\utilities\ReadConfig.class
+com\PilotPay\utilities\Reporting.class
+com\PilotPay\testCases\TC_LoginDDT_002.class
+com\PilotPay\testCases\TC_UpdatePayCategoryTest_004.class
+com\PilotPay\testCases\TC_CreatePayCategoryTest_003.class
+com\PilotPay\testCases\TC_E2EPayCategorieyTest_006.class
